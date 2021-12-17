@@ -1,0 +1,164 @@
+
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!--
+    <link rel="stylesheet" href="css/icviewer-embedded.bundle.css">
+    <script src="js/icviewer-embedded.bundle.min.js"></script>
+    -->
+    <script src="https://openseadragon.github.io/openseadragon/openseadragon.min.js"></script>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            background-color: black
+        }
+        .highlight {
+          opacity: 0.2;
+          background-color: #e9dc51;
+          outline: 12px auto #0A7EbE;
+        }
+    </style>
+  </head>
+  <body>
+    <div
+        id="viewer-image"
+        ref="image"
+        style="width: 100%; height: 100%"
+      />
+      <!--
+        style="width: 100%; height: 600px"
+    <div style="background-color: black">
+      
+    </div>
+    -->
+    <script>
+        (function() {
+
+          var vars = {};
+          var param = location.search.substring(1).split('&');
+          for (var i = 0; i < param.length; i++) {
+            var keySearch = param[i].search(/=/);
+            var key = '';
+            if (keySearch != -1) key = param[i].slice(0, keySearch);
+            var val = param[i].slice(param[i].indexOf('=', 0) + 1);
+            if (key != '') vars[key] = decodeURI(val);
+          }
+          
+          let data = {}
+          if(vars["manifest"]){
+            const manifest = vars["manifest"]
+            data = {
+              manifest
+            }
+            if(vars["canvas"]){
+              data.canvas = decodeURIComponent(vars["canvas"])
+            }
+            if(vars["xywh"]){
+              data.xywh = decodeURIComponent(vars["xywh"])
+            }
+          }
+
+          /*
+          IIIFCurationViewerEmbedded({
+              id: 'image_canvas2',
+              data
+          });
+          */
+
+          let spl = data.canvas.split("#xywh=")
+          let canvas_uri = spl[0]
+
+          let xywh = null
+          if(spl.length > 1){
+            xywh = spl[1].split(",")
+          }
+          
+
+          fetch(data.manifest)
+            .then( response => response.json() )
+              .then( responseData => {
+                let image = null
+                for(let canvas of responseData.sequences[0].canvases){
+                  if(canvas["@id"] === canvas_uri){
+                    image = canvas["images"][0].resource
+                    break
+                  }
+                }
+                
+                let fullWidth = -1
+                
+                let x = -1
+                let y = -1
+                let width = -1
+                let height = -1
+                let box = null
+
+                if(xywh){
+                  fullWidth = image.width
+
+                  x = Number(xywh[0]) / fullWidth
+                  y = Number(xywh[1]) / fullWidth
+                  width = Number(xywh[2]) / fullWidth
+                  height = Number(xywh[3]) / fullWidth
+
+                  box = new OpenSeadragon.Rect(x, y, width, height)
+
+                }
+
+                
+
+                if(image.service){                
+                  const viewer = OpenSeadragon({
+                    showRotationControl: true,
+                    id: "viewer-image",
+                    tileSources: image.service["@id"] + "/info.json"//tile
+                  })
+
+                  if(xywh){
+
+                    viewer.addHandler('open', function() {
+                        viewer.viewport.fitBoundsWithConstraints(box)//.applyConstraints(); //WithConstraints
+                        viewer.addOverlay({
+                          x, y, width, height,className: 'highlight'
+                        });
+                    });
+
+                  }
+
+                } else {
+                  const overlays = []
+                  if(xywh){
+                    overlays.push({
+                      id: 'example-overlay',
+                      x,
+                      y,
+                      width,
+                      height,
+                      //className: 'highlight'
+                    })
+                  }
+                  const viewer = OpenSeadragon({
+                    showRotationControl: true,
+                    id: "viewer-image",
+                    tileSources: {
+                        type: 'image',
+                        url:  image["@id"],
+                        overlays: overlays,
+                    }
+                  })
+
+                  if(xywh){
+                    viewer.addHandler('open', function() {
+                        
+                        viewer.viewport.fitBounds(box);
+                    });
+                  }
+                }
+              } );
+            })
+          ();
+    </script>
+  </body>  
+</html>
