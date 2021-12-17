@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{419:function(e){e.exports=JSON.parse('{"lang":"ja","siteName":"錦絵ギャラリー","siteDesc":"錦絵ギャラリーのプロトタイプです。","footer":"東京大学史料編纂所","siteKeywords":"IIIF","shortName":"錦絵","etc":{}}')}}]);
