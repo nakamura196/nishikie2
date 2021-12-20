@@ -17,6 +17,17 @@ path = "/Users/nakamurasatoru/git/d_hi/nishikie2/docs/curation/top.json"
 with open(path) as f:
     st = json.load(f)
 
+path = "/Users/nakamurasatoru/git/d_kunshujo/enc2021/src/projects/nishikie/data/401_res.json"
+
+dbl = []
+
+with open(path) as f:
+    dbl2 = json.load(f)
+
+    for key in dbl2:
+        if dbl2[key]["dbl"] == "good":
+            dbl.append(key)
+
 index = []
 
 selections = st["selections"]
@@ -43,6 +54,9 @@ for selection in selections:
 
     # id = hashlib.md5((member_id + "gcv").encode('utf-8')).hexdigest()
     id = hashlib.md5((member_id).encode('utf-8')).hexdigest()
+
+    if id not in dbl:
+        continue
 
     label = member["label"]
 

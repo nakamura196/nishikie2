@@ -16,8 +16,9 @@
         }
         .highlight {
           opacity: 0.2;
-          background-color: #e9dc51;
-          outline: 12px auto #0A7EbE;
+          /*background-color: #e9dc51;
+          outline: 12px auto #0A7EbE;*/
+          outline: auto #0A7EbE;
         }
     </style>
   </head>
@@ -80,11 +81,17 @@
             .then( response => response.json() )
               .then( responseData => {
                 let image = null
+                let images = []
                 for(let canvas of responseData.sequences[0].canvases){
                   if(canvas["@id"] === canvas_uri){
                     image = canvas["images"][0].resource
-                    break
+                    //break
                   }
+                  //images.push(canvas["images"][0].resource)
+                  images.push({
+                    "canvas" : canvas["@id"],
+                    "image" : canvas["images"][0].resource
+                  })
                 }
                 
                 let fullWidth = -1
@@ -109,11 +116,16 @@
 
                 
 
-                if(image.service){                
+                if(image.service){      
+                  const tileSources = []
+                  for(const img of images){
+                    tileSources.push(img.service["@id"] + "/info.json")
+                  }      
                   const viewer = OpenSeadragon({
                     showRotationControl: true,
                     id: "viewer-image",
-                    tileSources: image.service["@id"] + "/info.json"//tile
+                    tileSources, //: image.service["@id"] + "/info.json"//tile,
+                    sequenceMode: true,
                   })
 
                   if(xywh){
@@ -128,6 +140,37 @@
                   }
 
                 } else {
+                  const tileSources = []
+                  for(const img of images){
+                    const tileSource = {type: 'image',
+                        url:  img.image["@id"]}
+                    tileSources.push(tileSource)
+                    /*
+                    tileSources.push({type: 'image',
+                        url:  img["@id"],})
+                    */
+                    if(img.canvas === canvas_uri){
+                      //tileSource
+
+                      const overlays = []
+                      if(xywh){
+                        overlays.push({
+                          id: 'example-overlay',
+                          x,
+                          y,
+                          width,
+                          height,
+                          className: 'highlight'
+                        })
+
+                        tileSource.overlays = overlays
+                      }
+                    }
+                  }
+                  
+                  console.log({tileSources})
+                  
+                  /*
                   const overlays = []
                   if(xywh){
                     overlays.push({
@@ -139,22 +182,40 @@
                       //className: 'highlight'
                     })
                   }
+                  */
+
                   const viewer = OpenSeadragon({
                     showRotationControl: true,
                     id: "viewer-image",
-                    tileSources: {
+                    tileSources/*: {
                         type: 'image',
                         url:  image["@id"],
                         overlays: overlays,
-                    }
+                    }*/,
+                    sequenceMode: true,
+                    //showReferenceStrip: true,
+                    //referenceStripScroll: 'vertical',
                   })
+                  /*
+                  if(xywh){
+                    viewer.viewport.fitBounds(box);
+                  }
+                  */
 
+                  let flg = true
+                  
+                  
                   if(xywh){
                     viewer.addHandler('open', function() {
+                        if(flg){
+                          flg = false
+                          viewer.viewport.fitBounds(box, true); //, true
+                        }
                         
-                        viewer.viewport.fitBounds(box);
                     });
                   }
+                  /*
+                  */
                 }
               } );
             })

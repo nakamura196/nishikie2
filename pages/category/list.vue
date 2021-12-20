@@ -51,6 +51,7 @@ export default class about extends Vue {
       },
       description: 'アイテムのメタデータ別の集計結果を表示します。',
     },
+    /*
     {
       label: 'エンティティ別',
       to: {
@@ -61,6 +62,7 @@ export default class about extends Vue {
       },
       description: 'エンティティのメタデータ別の集計結果を表示します。',
     },
+    */
     {
       label: 'オブジェクト別',
       to: {

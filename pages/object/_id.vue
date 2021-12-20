@@ -66,7 +66,7 @@
         />
       </p>
 
-      <p class="text-center">
+      <p class="text-center" v-if="false">
         <v-btn
           rounded
           depressed

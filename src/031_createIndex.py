@@ -35,6 +35,41 @@ path = "/Users/nakamurasatoru/git/d_hi/nishikie/docs/curation/mod.json"
 with open(path) as f:
     st = json.load(f)
 
+path = "/Users/nakamurasatoru/git/d_kunshujo/enc2021/src/projects/nishikie/data/401_res.json"
+
+dbl = []
+
+with open(path) as f:
+    dbl2 = json.load(f)
+
+    for key in dbl2:
+        if dbl2[key]["dbl"] == "good":
+            dbl.append(key)
+
+path = "/Users/nakamurasatoru/git/d_hi/nishikie/docs/curation/add_gcv.json"
+
+mtags3 = {}
+
+with open(path) as f:
+    mtags2 = json.load(f)
+
+    selections = mtags2["selections"]
+
+    for selection in selections:
+        for member in selection["members"]:
+            mid = hashlib.md5(member["@id"].encode('utf-8')).hexdigest()
+
+            if mid in dbl:
+                parent = member["within"]
+
+                if parent not in mtags3:
+                    mtags3[parent] = []
+
+                label = member["label"]
+
+                if label not in mtags3[parent]:
+                    mtags3[parent].append(label)
+
 '''
 path = "data/reps.json"
 
@@ -89,7 +124,7 @@ for selection in selections:
     metadata = member["metadata"]
 
     tags = []
-    mtags = []
+    mtags = mtags3[id] if id in mtags3 else []
 
     agentials = []
     places = []
@@ -101,6 +136,26 @@ for selection in selections:
 
     entityIds = []
     book = []
+
+    label2 = member["label"]
+
+    item = {
+        "objectID": id,
+        "label": label2,
+        # "tag": tags,
+        # "mtag" : mtags,
+        "thumbnail": member["thumbnail"],
+        "manifest" : manifest,
+        "member" : member_id,
+        "_updated" : format(today, '%Y-%m-%d'),
+        # "agential" : agentials,
+        # "keyword" : keywords,
+        # "place" : places,
+        # "time" : times,
+        # "org" : orgs,
+        # "book" : book,
+        # "color" : color
+    }
 
     for m in metadata:
         label = m["label"]
@@ -143,36 +198,29 @@ for selection in selections:
                     if uri not in entityIds and uri != "chname:田中芳男":
                         entityIds.append(uri)
 
+        
         elif label == "機械タグ":
+            pass
+            '''
             for value in values:
                 if value not in excludes and value not in mtags:
                     mtags.append(value)
+            '''
         elif label == "Color":
             color = values
         elif label == "帖数":
-            book = values  
+            book = values
+        else:
+            item[label] = values
 
-    label = member["label"]
+    
     
     # book = label.split(" p.")[0]
 
-    item = {
-        "objectID": id,
-        "label": label,
-        "tag": tags,
-        "mtag" : mtags,
-        "thumbnail": member["thumbnail"],
-        "manifest" : manifest,
-        "member" : member_id,
-        "_updated" : format(today, '%Y-%m-%d'),
-        "agential" : agentials,
-        "keyword" : keywords,
-        "place" : places,
-        "time" : times,
-        "org" : orgs,
-        "book" : book,
-        "color" : color
-    }
+    item["tag"] = tags
+    item["mtag"] = mtags
+    item["color"] = color
+
 
     '''
     if "images" in member:
@@ -272,3 +320,37 @@ with open("../static/data/entity_relation.json", 'w') as outfile:
 with open("../static/data/relation.json", 'w') as outfile:
     json.dump(sims, outfile, ensure_ascii=False,
                 indent=4, sort_keys=True, separators=(',', ': '))
+
+map = {}
+
+for item in index:
+    for key in item:
+        values = item[key]
+        if type(values) == list:
+            for value in values:
+                if key not in map:
+                    map[key] = {}
+                if value not in map[key]:
+                    map[key][value] = []
+                map[key][value].append(item["objectID"])
+
+for key in map:
+    obj = map[key]
+    
+    print("キー", key)
+
+    print("ばらつき",len(map[key]))
+
+    ids = []
+    for value in obj:
+        ids_ = obj[value]
+        for id in ids_:
+            if id not in ids:
+                ids.append(id)
+
+    print("カバー率", len(ids) / len(index) * 100)
+
+    print("-------")
+
+for key in map:
+    print({"label": key, "value": key})

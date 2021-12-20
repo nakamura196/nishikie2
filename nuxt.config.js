@@ -28,6 +28,7 @@ env.menu = [
     icon: 'mdi-information',
     top: true,
   },
+  /*
   {
     label: '検索例',
     to: {
@@ -37,6 +38,7 @@ env.menu = [
     top: true,
     description: '本システムの検索例を紹介します。',
   },
+  */
   {
     label: '検索',
     to: {
@@ -105,6 +107,7 @@ env.menu = [
     top: true,
   },
   */
+  /*
   {
     label: 'map',
     to: {
@@ -114,67 +117,6 @@ env.menu = [
     description: '地図から探す',
     top: true,
   },
-
-  /*
-  {
-    label: '可視化例 1',
-    href: 'https://utda.github.io/kunshujo-a/item/pd/',
-    img: env.BASE_URL + '/img/etc/pd_banner_magnified.webp',
-    description: 'NYPLが公開する手法を用いた可視化を行います。',
-    top: true,
-  },
-  {
-    label: '可視化例 2',
-    href: 'https://utda.github.io/kunshujo-a/item/pp/',
-    img: env.BASE_URL + '/img/etc/pixplot.webp',
-    description: 'Yale大学が公開する手法「PixPlot」を用いた可視化を行います。',
-    top: true,
-  },
-  */
-  /*
-  {
-    label: 'オブジェクト検索',
-    to: {
-      name: 'search-slug',
-      params: {
-        slug: 'object',
-      },
-    },
-    icon: 'mdi-tag',
-    description: 'Google Cloud Vision APIを用いて検出した物体を検索します。',
-    top: true,
-  },
-  */
-  /*
-  {
-    label: 'カテゴリ（オブジェクト）',
-    to: {
-      name: 'category-slug',
-      params: {
-        slug: 'object',
-      },
-    },
-    icon: 'mdi-chart-bar',
-    description: '検出した物体のメタデータ別の集計結果を表示します。',
-    top: true,
-  },
-  */
-  /*
-  {
-    label: '可視化例 3 オブジェクト',
-    href: 'https://utda.github.io/kunshujo-a/object/pd/',
-    img: env.BASE_URL + '/img/etc/pd_banner_magnified.webp',
-    description: 'NYPLが公開する手法を用いた可視化を行います。',
-    top: true,
-  },
-  {
-    label: '可視化例 4 オブジェクト',
-    href: 'https://utda.github.io/kunshujo-a/object/pp/',
-    img: env.BASE_URL + '/img/etc/pixplot.webp',
-    description: 'Yale大学が公開する手法「PixPlot」を用いた可視化を行います。',
-    top: true,
-  },
-  */
   {
     label: '機械学習関連サービス',
     to: {
@@ -184,26 +126,8 @@ env.menu = [
     description: '機械学習関連サービスについて紹介します。',
     top: true,
   },
-  /*
-  {
-    label: '物体検出',
-    to: {
-      name: 'detection',
-    },
-    icon: 'mdi-api',
-    description: '物体検出を試します。',
-    top: true,
-  },
-  {
-    label: '類似画像検索',
-    to: {
-      name: 'sim',
-    },
-    icon: 'mdi-api',
-    description: '類似画像検索を試します。',
-    top: true,
-  },
   */
+  /*
   {
     label: 'タグ修正アプリ',
     href: 'https://kunshujo-c.web.app/',
@@ -230,6 +154,7 @@ env.menu = [
     top: true,
     blank: true,
   },
+  */
 ]
 
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
@@ -276,42 +201,74 @@ env.searches = {
     label: 'item',
     index: 'data/index.json',
     aggs: {
-      book: {
-        key: 'book',
+      書名: {
+        key: '書名',
         sort: '',
-        label: 'book',
+        label: '書名',
         value: {},
         more: false,
         open: true,
       },
-      agential: {
-        key: 'agential',
+      画工名: {
+        key: '画工名',
         sort: '',
-        label: 'agential',
+        label: '画工名',
         value: {},
         more: false,
         open: true,
       },
-      place: {
-        key: 'place',
+      和暦年月日: {
+        key: '和暦年月日',
         sort: '',
-        label: 'place',
+        label: '和暦年月日',
         value: {},
         more: false,
         open: true,
       },
-      org: {
-        key: 'org',
+      判: {
+        key: '判',
         sort: '',
-        label: 'org',
+        label: '判',
         value: {},
         more: false,
         open: true,
       },
-      keyword: {
-        key: 'keyword',
+      形態: {
+        key: '形態',
         sort: '',
-        label: 'keyword',
+        label: '形態',
+        value: {},
+        more: false,
+        open: true,
+      },
+      彩色: {
+        key: '彩色',
+        sort: '',
+        label: '彩色',
+        value: {},
+        more: false,
+        open: true,
+      },
+      検印状況: {
+        key: '検印状況',
+        sort: '',
+        label: '検印状況',
+        value: {},
+        more: false,
+        open: true,
+      },
+      主題: {
+        key: '主題',
+        sort: '',
+        label: '主題',
+        value: {},
+        more: false,
+        open: true,
+      },
+      細目: {
+        key: '細目',
+        sort: '',
+        label: '細目',
         value: {},
         more: false,
         open: true,
@@ -346,35 +303,26 @@ env.searches = {
     defaultLayout: 'grid',
     name: 'item-id',
     detail: [
-      {
-        label: 'book',
-        value: 'book',
-      },
-      {
-        label: 'tag',
-        value: 'tag',
-        type: 'text',
-      },
-      {
-        label: 'agential',
-        value: 'agential',
-      },
-      {
-        label: 'org',
-        value: 'org',
-      },
-      {
-        label: 'place',
-        value: 'place',
-      },
-      {
-        label: 'keyword',
-        value: 'keyword',
-      },
-      {
-        label: 'time',
-        value: 'time',
-      },
+      { label: '題名', value: '題名', type: 'text' },
+      { label: '書名', value: '書名' },
+      { label: '所蔵機関', value: '所蔵機関', type: 'text' },
+      { label: '請求記号', value: '請求記号', type: 'text' },
+      { label: '画工名', value: '画工名' },
+      { label: '和暦年月日', value: '和暦年月日' },
+      { label: '版元名', value: '版元名', type: 'text' },
+      { label: '版元住所', value: '版元住所', type: 'text' },
+      { label: '判', value: '判' },
+      { label: '形態', value: '形態' },
+      { label: '彩色', value: '彩色' },
+      { label: '検印状況', value: '検印状況' },
+      { label: '主題', value: '主題' },
+      { label: '細目', value: '細目' },
+      { label: 'その他書誌事項', value: 'その他書誌事項', type: 'text' },
+      { label: '人名', value: '人名', type: 'text' },
+      { label: '検印', value: '検印', type: 'text' },
+      { label: 'その他固有件名', value: 'その他固有件名', type: 'text' },
+      { label: '彫師', value: '彫師', type: 'text' },
+      { label: '地名', value: '地名', type: 'text' },
       {
         label: 'color',
         value: 'color',
@@ -407,12 +355,20 @@ env.searches = {
     ],
     list: [
       {
-        label: 'tag',
-        value: 'tag',
+        label: '画工名',
+        value: '画工名',
       },
       {
-        label: 'book',
-        value: 'book',
+        label: '和暦年月日',
+        value: '和暦年月日',
+      },
+      {
+        label: '版元名',
+        value: '版元名',
+      },
+      {
+        label: '形態',
+        value: '形態',
       },
     ],
   },
@@ -486,6 +442,7 @@ env.searches = {
         more: false,
         open: true,
       },
+      /*
       color: {
         key: 'color',
         sort: '',
@@ -494,6 +451,8 @@ env.searches = {
         more: false,
         open: true,
       },
+      */
+      /*
       score: {
         key: 'score',
         sort: '',
@@ -502,6 +461,7 @@ env.searches = {
         more: false,
         open: true,
       },
+      */
     },
     sort: [
       { label: '適合度', value: '_score' },
@@ -555,7 +515,7 @@ env.searches = {
   },
 }
 
-env.gtag = 'G-KYBLVDY8SM'
+env.gtag = '' //G-KYBLVDY8SM
 
 export default {
   telemetry: false,
