@@ -41,7 +41,6 @@ export default class about extends Vue {
   title: any = this.$t('その他の検索')
 
   items: any[] = [
-    /*
     {
       label: 'エンティティ別',
       to: {
@@ -52,7 +51,8 @@ export default class about extends Vue {
       },
       description: 'エンティティ（人物、場所、キーワードなど）を検索します。',
     },
-    */
+    /*
+     */
     {
       label: 'オブジェクト別',
       to: {

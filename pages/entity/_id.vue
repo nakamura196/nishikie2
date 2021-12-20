@@ -405,6 +405,9 @@ export default class Item extends Vue {
       case 'keyword':
         return 'keyword'
         break
+      case 'event':
+        return 'event'
+        break
     }
   }
 

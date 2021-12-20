@@ -1,1 +1,7936 @@
-{}
+{
+    "chname:ヤマトタケル": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "chname:井伊直弼": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        }
+    ],
+    "chname:仮名垣魯文": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "chname:佐久間象山": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "chname:和宮親子内親王": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:江戸城",
+            "value": 1
+        }
+    ],
+    "chname:太田道灌": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "chname:島津忠義": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "chname:徳川家茂": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 5
+        },
+        {
+            "label": "keyword:大判",
+            "value": 5
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 5
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:紫宸殿",
+            "value": 2
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        },
+        {
+            "label": "keyword:建物",
+            "value": 1
+        },
+        {
+            "label": "place:京都御所",
+            "value": 1
+        }
+    ],
+    "chname:徳川慶勝": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "chname:徳川慶喜": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "chname:徳川斉昭": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        }
+    ],
+    "chname:月岡芳年": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 5
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 5
+        },
+        {
+            "label": "keyword:大判",
+            "value": 5
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 5
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 5
+        },
+        {
+            "label": "chname:江藤新平",
+            "value": 1
+        }
+    ],
+    "chname:有村次左衛門": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "chname:朝比奈義秀": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "chname:松平容保": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "event:禁門の変",
+            "value": 1
+        }
+    ],
+    "chname:歌川国芳": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "chname:江藤新平": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "chname:月岡芳年",
+            "value": 1
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "chname:源為朝": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "chname:源頼朝": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋大伝馬町",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "chname:西郷隆盛": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "chname:近藤勇": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:勝沼",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "event:上野戦争": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:海老屋林之助",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋人形町",
+            "value": 1
+        }
+    ],
+    "event:下関戦争": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:山本屋平吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:下関",
+            "value": 1
+        }
+    ],
+    "event:元寇": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大金",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "event:北越戦争": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 2
+        }
+    ],
+    "event:天狗党の乱": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "event:戊辰戦争": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 135
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 135
+        },
+        {
+            "label": "keyword:大判",
+            "value": 127
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 80
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 32
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 8
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 7
+        },
+        {
+            "label": "keyword:占い",
+            "value": 2
+        },
+        {
+            "label": "keyword:清水屋直次郎",
+            "value": 2
+        },
+        {
+            "label": "chname:徳川慶喜",
+            "value": 2
+        },
+        {
+            "label": "keyword:小島屋重兵衛",
+            "value": 2
+        },
+        {
+            "label": "keyword:相撲",
+            "value": 2
+        },
+        {
+            "label": "keyword:石臼",
+            "value": 2
+        },
+        {
+            "label": "place:上野",
+            "value": 2
+        },
+        {
+            "label": "keyword:山本屋平吉",
+            "value": 2
+        },
+        {
+            "label": "event:上野戦争",
+            "value": 2
+        },
+        {
+            "label": "event:北越戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:松木平吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:虫売り",
+            "value": 1
+        },
+        {
+            "label": "keyword:髪結い",
+            "value": 1
+        },
+        {
+            "label": "keyword:呉服商",
+            "value": 1
+        },
+        {
+            "label": "keyword:寄席",
+            "value": 1
+        },
+        {
+            "label": "keyword:座頭",
+            "value": 1
+        },
+        {
+            "label": "keyword:世直し一揆",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹馬",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹斎",
+            "value": 1
+        },
+        {
+            "label": "keyword:花火",
+            "value": 1
+        },
+        {
+            "label": "keyword:お化け",
+            "value": 1
+        },
+        {
+            "label": "keyword:剣道",
+            "value": 1
+        },
+        {
+            "label": "keyword:花札",
+            "value": 1
+        },
+        {
+            "label": "keyword:老松",
+            "value": 1
+        },
+        {
+            "label": "keyword:東叡大王",
+            "value": 1
+        },
+        {
+            "label": "keyword:古賀屋勝五郎",
+            "value": 1
+        },
+        {
+            "label": "keyword:海老屋林之助",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋人形町",
+            "value": 1
+        },
+        {
+            "label": "keyword:勝沼",
+            "value": 1
+        },
+        {
+            "label": "chname:近藤勇",
+            "value": 1
+        },
+        {
+            "label": "event:箱館戦争",
+            "value": 1
+        },
+        {
+            "label": "chname:島津忠義",
+            "value": 1
+        },
+        {
+            "label": "chname:徳川慶勝",
+            "value": 1
+        },
+        {
+            "label": "keyword:渋江内膳",
+            "value": 1
+        }
+    ],
+    "event:禁門の変": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "chname:松平容保",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "event:箱館戦争": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:いかだ": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:ういろう": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:お化け": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:お守り": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:両国",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:単色光",
+            "value": 1
+        }
+    ],
+    "keyword:さくら屋": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:とろろ": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:鞠子宿",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸子",
+            "value": 1
+        }
+    ],
+    "keyword:やまと新聞社": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 12
+        },
+        {
+            "label": "keyword:大判",
+            "value": 12
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 12
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 12
+        },
+        {
+            "label": "chname:月岡芳年",
+            "value": 5
+        },
+        {
+            "label": "chname:江藤新平",
+            "value": 1
+        },
+        {
+            "label": "keyword:江川太郎左衛門",
+            "value": 1
+        },
+        {
+            "label": "event:天狗党の乱",
+            "value": 1
+        },
+        {
+            "label": "chname:西郷隆盛",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組の変",
+            "value": 1
+        }
+    ],
+    "keyword:タコ": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:山本屋平吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:ツル": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "place:由比ヶ浜",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:一橋斎艶長": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:三島": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 1
+        },
+        {
+            "label": "keyword:風俗",
+            "value": 1
+        }
+    ],
+    "keyword:三条大橋": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        }
+    ],
+    "keyword:上村与兵衛": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "keyword:下関": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:山本屋平吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:下関戦争",
+            "value": 1
+        }
+    ],
+    "keyword:世直し一揆": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 1
+        }
+    ],
+    "keyword:両国": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:お守り",
+            "value": 1
+        },
+        {
+            "label": "place:霞が関",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:両国広小路": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:丸子": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "keyword:とろろ",
+            "value": 1
+        }
+    ],
+    "keyword:丸屋甚八": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:横浜",
+            "value": 1
+        }
+    ],
+    "keyword:丸正": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "place:増上寺",
+            "value": 1
+        }
+    ],
+    "keyword:亀屋岩吉": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:二条城": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:児玉又七",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:伊藤": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        }
+    ],
+    "keyword:佐屋": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "keyword:牛頭天王",
+            "value": 1
+        }
+    ],
+    "keyword:佐野屋富五郎": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        }
+    ],
+    "keyword:児玉又七": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:東洲勝月",
+            "value": 1
+        },
+        {
+            "label": "keyword:二条城",
+            "value": 1
+        }
+    ],
+    "keyword:切断": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:剣道": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 1
+        }
+    ],
+    "keyword:勝沼": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "chname:近藤勇",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:単色光": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:番付",
+            "value": 1
+        },
+        {
+            "label": "keyword:安政の大地震",
+            "value": 1
+        },
+        {
+            "label": "keyword:お守り",
+            "value": 1
+        }
+    ],
+    "keyword:占い": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        }
+    ],
+    "keyword:古賀屋勝五郎": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 4
+        },
+        {
+            "label": "keyword:大判",
+            "value": 4
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 4
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:吉原": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 7
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 7
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 7
+        },
+        {
+            "label": "keyword:大判",
+            "value": 6
+        }
+    ],
+    "keyword:吉田大橋": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:呉服商": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:国旗": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:横浜",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:園原屋正助": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:近江",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:土橋": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:駒場",
+            "value": 1
+        },
+        {
+            "label": "keyword:軍事",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:堺事件": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "keyword:塩田": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:外国人": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        }
+    ],
+    "keyword:夜泣き石": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:日坂宿",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        }
+    ],
+    "keyword:大判": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 647
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 644
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 204
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 160
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 127
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 87
+        },
+        {
+            "label": "keyword:鯰絵",
+            "value": 67
+        },
+        {
+            "label": "keyword:歴史画",
+            "value": 44
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 36
+        },
+        {
+            "label": "keyword:安政の大地震",
+            "value": 26
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 25
+        },
+        {
+            "label": "place:築地",
+            "value": 23
+        },
+        {
+            "label": "keyword:大金",
+            "value": 22
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 12
+        },
+        {
+            "label": "keyword:生麦事件",
+            "value": 9
+        },
+        {
+            "label": "keyword:吉原",
+            "value": 6
+        },
+        {
+            "label": "keyword:横浜",
+            "value": 6
+        },
+        {
+            "label": "keyword:日本橋",
+            "value": 5
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 5
+        },
+        {
+            "label": "chname:徳川家茂",
+            "value": 5
+        },
+        {
+            "label": "chname:月岡芳年",
+            "value": 5
+        },
+        {
+            "label": "keyword:古賀屋勝五郎",
+            "value": 4
+        },
+        {
+            "label": "keyword:山本屋平吉",
+            "value": 4
+        },
+        {
+            "label": "keyword:海老屋林之助",
+            "value": 4
+        },
+        {
+            "label": "place:日本橋大伝馬町",
+            "value": 4
+        },
+        {
+            "label": "keyword:清水屋直次郎",
+            "value": 3
+        },
+        {
+            "label": "chname:徳川慶喜",
+            "value": 3
+        },
+        {
+            "label": "keyword:奪衣婆",
+            "value": 3
+        },
+        {
+            "label": "keyword:両国",
+            "value": 3
+        },
+        {
+            "label": "keyword:丸屋甚八",
+            "value": 3
+        },
+        {
+            "label": "chname:井伊直弼",
+            "value": 2
+        },
+        {
+            "label": "keyword:占い",
+            "value": 2
+        },
+        {
+            "label": "keyword:お化け",
+            "value": 2
+        },
+        {
+            "label": "keyword:大津絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:小島屋重兵衛",
+            "value": 2
+        },
+        {
+            "label": "keyword:相撲",
+            "value": 2
+        },
+        {
+            "label": "keyword:石臼",
+            "value": 2
+        },
+        {
+            "label": "place:日本橋人形町",
+            "value": 2
+        },
+        {
+            "label": "keyword:翔鶴丸",
+            "value": 2
+        },
+        {
+            "label": "keyword:風俗",
+            "value": 2
+        },
+        {
+            "label": "keyword:程ヶ谷宿",
+            "value": 2
+        },
+        {
+            "label": "place:大磯町",
+            "value": 2
+        },
+        {
+            "label": "keyword:三島",
+            "value": 2
+        },
+        {
+            "label": "keyword:鞠子宿",
+            "value": 2
+        },
+        {
+            "label": "keyword:日坂宿",
+            "value": 2
+        },
+        {
+            "label": "keyword:見付",
+            "value": 2
+        },
+        {
+            "label": "keyword:舞阪宿",
+            "value": 2
+        },
+        {
+            "label": "keyword:宮",
+            "value": 2
+        },
+        {
+            "label": "place:坂ノ下_(鎌倉市)",
+            "value": 2
+        },
+        {
+            "label": "keyword:雷神",
+            "value": 2
+        },
+        {
+            "label": "keyword:伊藤",
+            "value": 2
+        },
+        {
+            "label": "keyword:昔話",
+            "value": 2
+        },
+        {
+            "label": "keyword:番付",
+            "value": 2
+        },
+        {
+            "label": "keyword:佐野屋富五郎",
+            "value": 2
+        },
+        {
+            "label": "place:門前仲町",
+            "value": 2
+        },
+        {
+            "label": "keyword:紫宸殿",
+            "value": 2
+        },
+        {
+            "label": "place:上野",
+            "value": 2
+        },
+        {
+            "label": "place:霞が関",
+            "value": 2
+        },
+        {
+            "label": "place:高輪",
+            "value": 2
+        },
+        {
+            "label": "keyword:軍事",
+            "value": 2
+        },
+        {
+            "label": "event:上野戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:天保の改革",
+            "value": 2
+        },
+        {
+            "label": "keyword:児玉又七",
+            "value": 2
+        },
+        {
+            "label": "keyword:蔦屋吉蔵",
+            "value": 1
+        },
+        {
+            "label": "keyword:大蛇",
+            "value": 1
+        },
+        {
+            "label": "keyword:葛籠",
+            "value": 1
+        },
+        {
+            "label": "chname:歌川国芳",
+            "value": 1
+        },
+        {
+            "label": "keyword:文久永宝",
+            "value": 1
+        },
+        {
+            "label": "keyword:タコ",
+            "value": 1
+        },
+        {
+            "label": "keyword:松木平吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:蒸気船",
+            "value": 1
+        },
+        {
+            "label": "keyword:年中行事",
+            "value": 1
+        },
+        {
+            "label": "keyword:虫売り",
+            "value": 1
+        },
+        {
+            "label": "keyword:妖狐",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋_(東京都中央区)",
+            "value": 1
+        },
+        {
+            "label": "keyword:隅田了古",
+            "value": 1
+        },
+        {
+            "label": "keyword:富士山",
+            "value": 1
+        },
+        {
+            "label": "keyword:風呂",
+            "value": 1
+        },
+        {
+            "label": "keyword:髪結い",
+            "value": 1
+        },
+        {
+            "label": "keyword:呉服商",
+            "value": 1
+        },
+        {
+            "label": "keyword:寄席",
+            "value": 1
+        },
+        {
+            "label": "keyword:座頭",
+            "value": 1
+        },
+        {
+            "label": "keyword:世直し一揆",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹馬",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹斎",
+            "value": 1
+        },
+        {
+            "label": "keyword:花火",
+            "value": 1
+        },
+        {
+            "label": "keyword:剣道",
+            "value": 1
+        },
+        {
+            "label": "keyword:花札",
+            "value": 1
+        },
+        {
+            "label": "keyword:歌川国貞_(3代目)",
+            "value": 1
+        },
+        {
+            "label": "chname:源為朝",
+            "value": 1
+        },
+        {
+            "label": "keyword:日蓮",
+            "value": 1
+        },
+        {
+            "label": "event:元寇",
+            "value": 1
+        },
+        {
+            "label": "keyword:西遊記",
+            "value": 1
+        },
+        {
+            "label": "keyword:孫悟空",
+            "value": 1
+        },
+        {
+            "label": "keyword:村",
+            "value": 1
+        },
+        {
+            "label": "keyword:老松",
+            "value": 1
+        },
+        {
+            "label": "place:成田山大阪別院明王院",
+            "value": 1
+        },
+        {
+            "label": "keyword:猫の妙術",
+            "value": 1
+        },
+        {
+            "label": "keyword:上村与兵衛",
+            "value": 1
+        },
+        {
+            "label": "keyword:辻岡文助",
+            "value": 1
+        },
+        {
+            "label": "chname:太田道灌",
+            "value": 1
+        },
+        {
+            "label": "place:立山",
+            "value": 1
+        },
+        {
+            "label": "keyword:天野屋利兵衛",
+            "value": 1
+        },
+        {
+            "label": "keyword:府中",
+            "value": 1
+        },
+        {
+            "label": "keyword:夜泣き石",
+            "value": 1
+        },
+        {
+            "label": "keyword:吉田大橋",
+            "value": 1
+        },
+        {
+            "label": "place:知立市",
+            "value": 1
+        },
+        {
+            "label": "keyword:鳴海",
+            "value": 1
+        },
+        {
+            "label": "keyword:常夜灯",
+            "value": 1
+        },
+        {
+            "label": "keyword:大津",
+            "value": 1
+        },
+        {
+            "label": "chname:仮名垣魯文",
+            "value": 1
+        },
+        {
+            "label": "keyword:百万遍",
+            "value": 1
+        },
+        {
+            "label": "chname:朝比奈義秀",
+            "value": 1
+        },
+        {
+            "label": "keyword:両国広小路",
+            "value": 1
+        },
+        {
+            "label": "keyword:亀屋岩吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:切断",
+            "value": 1
+        },
+        {
+            "label": "keyword:単色光",
+            "value": 1
+        },
+        {
+            "label": "keyword:講談",
+            "value": 1
+        },
+        {
+            "label": "keyword:神農",
+            "value": 1
+        },
+        {
+            "label": "keyword:鍾馗",
+            "value": 1
+        },
+        {
+            "label": "keyword:お守り",
+            "value": 1
+        },
+        {
+            "label": "keyword:澤村田之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:役者絵",
+            "value": 1
+        },
+        {
+            "label": "place:四谷",
+            "value": 1
+        },
+        {
+            "label": "keyword:玩具絵",
+            "value": 1
+        },
+        {
+            "label": "chname:有村次左衛門",
+            "value": 1
+        },
+        {
+            "label": "keyword:河川舟運",
+            "value": 1
+        },
+        {
+            "label": "place:平間寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:鶴見",
+            "value": 1
+        },
+        {
+            "label": "keyword:さくら屋",
+            "value": 1
+        },
+        {
+            "label": "place:由比ヶ浜",
+            "value": 1
+        },
+        {
+            "label": "keyword:ツル",
+            "value": 1
+        },
+        {
+            "label": "keyword:大山道",
+            "value": 1
+        },
+        {
+            "label": "keyword:虎御前",
+            "value": 1
+        },
+        {
+            "label": "keyword:ういろう",
+            "value": 1
+        },
+        {
+            "label": "keyword:箱根関",
+            "value": 1
+        },
+        {
+            "label": "keyword:富士川",
+            "value": 1
+        },
+        {
+            "label": "place:鳳来寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:駿府",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川",
+            "value": 1
+        },
+        {
+            "label": "keyword:輿",
+            "value": 1
+        },
+        {
+            "label": "keyword:とろろ",
+            "value": 1
+        },
+        {
+            "label": "keyword:菊川",
+            "value": 1
+        },
+        {
+            "label": "keyword:御座船",
+            "value": 1
+        },
+        {
+            "label": "keyword:柏餅",
+            "value": 1
+        },
+        {
+            "label": "keyword:一橋斎艶長",
+            "value": 1
+        },
+        {
+            "label": "keyword:佐屋",
+            "value": 1
+        },
+        {
+            "label": "keyword:牛頭天王",
+            "value": 1
+        },
+        {
+            "label": "keyword:焚き火",
+            "value": 1
+        },
+        {
+            "label": "keyword:筆捨山",
+            "value": 1
+        },
+        {
+            "label": "chname:ヤマトタケル",
+            "value": 1
+        },
+        {
+            "label": "keyword:膳所",
+            "value": 1
+        },
+        {
+            "label": "keyword:瀬田の唐橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:三条大橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:宇治",
+            "value": 1
+        },
+        {
+            "label": "keyword:茶園",
+            "value": 1
+        },
+        {
+            "label": "keyword:建物",
+            "value": 1
+        },
+        {
+            "label": "place:京都御所",
+            "value": 1
+        },
+        {
+            "label": "keyword:能",
+            "value": 1
+        },
+        {
+            "label": "chname:源頼朝",
+            "value": 1
+        },
+        {
+            "label": "keyword:園原屋正助",
+            "value": 1
+        },
+        {
+            "label": "keyword:近江",
+            "value": 1
+        },
+        {
+            "label": "keyword:栗橋",
+            "value": 1
+        },
+        {
+            "label": "chname:和宮親子内親王",
+            "value": 1
+        },
+        {
+            "label": "keyword:江戸城",
+            "value": 1
+        },
+        {
+            "label": "keyword:下関",
+            "value": 1
+        },
+        {
+            "label": "event:下関戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:東叡大王",
+            "value": 1
+        },
+        {
+            "label": "keyword:延寿",
+            "value": 1
+        },
+        {
+            "label": "keyword:高札",
+            "value": 1
+        },
+        {
+            "label": "keyword:有田屋清右衛門",
+            "value": 1
+        },
+        {
+            "label": "keyword:西村屋与八",
+            "value": 1
+        },
+        {
+            "label": "keyword:国旗",
+            "value": 1
+        },
+        {
+            "label": "keyword:土橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:駒場",
+            "value": 1
+        },
+        {
+            "label": "chname:松平容保",
+            "value": 1
+        },
+        {
+            "label": "event:禁門の変",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川常次郎",
+            "value": 1
+        },
+        {
+            "label": "keyword:勝沼",
+            "value": 1
+        },
+        {
+            "label": "chname:近藤勇",
+            "value": 1
+        },
+        {
+            "label": "place:伊勢神宮",
+            "value": 1
+        },
+        {
+            "label": "keyword:本郷",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸正",
+            "value": 1
+        },
+        {
+            "label": "place:増上寺",
+            "value": 1
+        },
+        {
+            "label": "chname:江藤新平",
+            "value": 1
+        },
+        {
+            "label": "keyword:江川太郎左衛門",
+            "value": 1
+        },
+        {
+            "label": "event:天狗党の乱",
+            "value": 1
+        },
+        {
+            "label": "chname:西郷隆盛",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組の変",
+            "value": 1
+        },
+        {
+            "label": "keyword:牧金之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:日光社参",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川園吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:東洲勝月",
+            "value": 1
+        },
+        {
+            "label": "keyword:愛宕山",
+            "value": 1
+        },
+        {
+            "label": "keyword:二条城",
+            "value": 1
+        },
+        {
+            "label": "keyword:綱島亀吉",
+            "value": 1
+        },
+        {
+            "label": "chname:佐久間象山",
+            "value": 1
+        },
+        {
+            "label": "event:箱館戦争",
+            "value": 1
+        }
+    ],
+    "keyword:大山道": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:大津": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:大津絵",
+            "value": 1
+        }
+    ],
+    "keyword:大津絵": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大津",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:大蛇": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:蔦屋吉蔵",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:大金": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 22
+        },
+        {
+            "label": "place:築地",
+            "value": 22
+        },
+        {
+            "label": "keyword:大判",
+            "value": 22
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 22
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 12
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 3
+        },
+        {
+            "label": "keyword:蒸気船",
+            "value": 1
+        },
+        {
+            "label": "keyword:年中行事",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "event:元寇",
+            "value": 1
+        },
+        {
+            "label": "keyword:百万遍",
+            "value": 1
+        },
+        {
+            "label": "place:平間寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:鶴見",
+            "value": 1
+        },
+        {
+            "label": "keyword:菊川",
+            "value": 1
+        }
+    ],
+    "keyword:天保の改革": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:牧金之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:日光社参",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川園吉",
+            "value": 1
+        }
+    ],
+    "keyword:天誅組": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "keyword:天誅組の変": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "keyword:天野屋利兵衛": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:歴史画",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "keyword:奪衣婆": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:辻岡文助",
+            "value": 1
+        }
+    ],
+    "keyword:妖狐": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:子供絵": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 36
+        },
+        {
+            "label": "keyword:大判",
+            "value": 36
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 36
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 32
+        },
+        {
+            "label": "keyword:相撲",
+            "value": 2
+        },
+        {
+            "label": "keyword:世直し一揆",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹馬",
+            "value": 1
+        },
+        {
+            "label": "keyword:花火",
+            "value": 1
+        },
+        {
+            "label": "keyword:剣道",
+            "value": 1
+        },
+        {
+            "label": "keyword:歌川国貞_(3代目)",
+            "value": 1
+        }
+    ],
+    "keyword:孫悟空": [
+        {
+            "label": "keyword:西遊記",
+            "value": 1
+        },
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:宇治": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "keyword:茶園",
+            "value": 1
+        }
+    ],
+    "keyword:安倍川": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "keyword:輿",
+            "value": 1
+        }
+    ],
+    "keyword:安倍川もち": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:駿府",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:安政の大地震": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 27
+        },
+        {
+            "label": "keyword:大判",
+            "value": 26
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 26
+        },
+        {
+            "label": "keyword:鯰絵",
+            "value": 18
+        },
+        {
+            "label": "keyword:単色光",
+            "value": 1
+        }
+    ],
+    "keyword:宮": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:常夜灯",
+            "value": 2
+        }
+    ],
+    "keyword:寄席": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:富士山": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:富士川": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:尊王攘夷": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 27
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 27
+        },
+        {
+            "label": "keyword:大判",
+            "value": 25
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 17
+        },
+        {
+            "label": "keyword:生麦事件",
+            "value": 9
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 5
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 3
+        },
+        {
+            "label": "keyword:大津絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:日蓮",
+            "value": 1
+        },
+        {
+            "label": "keyword:大金",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "event:元寇",
+            "value": 1
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組の変",
+            "value": 1
+        },
+        {
+            "label": "keyword:綱島亀吉",
+            "value": 1
+        },
+        {
+            "label": "chname:佐久間象山",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組",
+            "value": 1
+        },
+        {
+            "label": "keyword:堺事件",
+            "value": 1
+        }
+    ],
+    "keyword:小判": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:小島屋重兵衛": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        }
+    ],
+    "keyword:山本屋平吉": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 4
+        },
+        {
+            "label": "keyword:大判",
+            "value": 4
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 4
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        },
+        {
+            "label": "keyword:タコ",
+            "value": 1
+        },
+        {
+            "label": "keyword:下関",
+            "value": 1
+        },
+        {
+            "label": "event:下関戦争",
+            "value": 1
+        }
+    ],
+    "keyword:常夜灯": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:宮",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        }
+    ],
+    "keyword:幕府陸軍": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 8
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 8
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 8
+        },
+        {
+            "label": "keyword:大判",
+            "value": 5
+        },
+        {
+            "label": "keyword:日本橋",
+            "value": 3
+        },
+        {
+            "label": "keyword:三島",
+            "value": 1
+        },
+        {
+            "label": "keyword:軍事",
+            "value": 1
+        },
+        {
+            "label": "place:大磯町",
+            "value": 1
+        },
+        {
+            "label": "place:知立市",
+            "value": 1
+        }
+    ],
+    "keyword:年中行事": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大金",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:府中": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:座頭": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:延寿": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:鯰絵",
+            "value": 1
+        }
+    ],
+    "keyword:建物": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "chname:徳川家茂",
+            "value": 1
+        },
+        {
+            "label": "place:京都御所",
+            "value": 1
+        }
+    ],
+    "keyword:役者絵": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:清水屋直次郎",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:澤村田之助",
+            "value": 1
+        }
+    ],
+    "keyword:御座船": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:舞阪宿",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        }
+    ],
+    "keyword:御所": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:愛宕山": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:戯画": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 166
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 166
+        },
+        {
+            "label": "keyword:大判",
+            "value": 160
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 80
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 17
+        },
+        {
+            "label": "keyword:生麦事件",
+            "value": 9
+        },
+        {
+            "label": "place:築地",
+            "value": 4
+        },
+        {
+            "label": "keyword:大金",
+            "value": 3
+        },
+        {
+            "label": "chname:徳川斉昭",
+            "value": 2
+        },
+        {
+            "label": "chname:井伊直弼",
+            "value": 2
+        },
+        {
+            "label": "keyword:占い",
+            "value": 2
+        },
+        {
+            "label": "keyword:古賀屋勝五郎",
+            "value": 2
+        },
+        {
+            "label": "keyword:大津絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:清水屋直次郎",
+            "value": 2
+        },
+        {
+            "label": "chname:徳川慶喜",
+            "value": 2
+        },
+        {
+            "label": "keyword:小島屋重兵衛",
+            "value": 2
+        },
+        {
+            "label": "keyword:石臼",
+            "value": 2
+        },
+        {
+            "label": "keyword:昔話",
+            "value": 2
+        },
+        {
+            "label": "keyword:蔦屋吉蔵",
+            "value": 1
+        },
+        {
+            "label": "keyword:大蛇",
+            "value": 1
+        },
+        {
+            "label": "chname:歌川国芳",
+            "value": 1
+        },
+        {
+            "label": "keyword:文久永宝",
+            "value": 1
+        },
+        {
+            "label": "keyword:山本屋平吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:タコ",
+            "value": 1
+        },
+        {
+            "label": "keyword:虫売り",
+            "value": 1
+        },
+        {
+            "label": "keyword:妖狐",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋_(東京都中央区)",
+            "value": 1
+        },
+        {
+            "label": "keyword:隅田了古",
+            "value": 1
+        },
+        {
+            "label": "keyword:富士山",
+            "value": 1
+        },
+        {
+            "label": "keyword:風呂",
+            "value": 1
+        },
+        {
+            "label": "keyword:髪結い",
+            "value": 1
+        },
+        {
+            "label": "keyword:呉服商",
+            "value": 1
+        },
+        {
+            "label": "keyword:寄席",
+            "value": 1
+        },
+        {
+            "label": "keyword:座頭",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹斎",
+            "value": 1
+        },
+        {
+            "label": "keyword:お化け",
+            "value": 1
+        },
+        {
+            "label": "keyword:花札",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋人形町",
+            "value": 1
+        },
+        {
+            "label": "chname:源為朝",
+            "value": 1
+        },
+        {
+            "label": "keyword:西遊記",
+            "value": 1
+        },
+        {
+            "label": "keyword:孫悟空",
+            "value": 1
+        },
+        {
+            "label": "keyword:老松",
+            "value": 1
+        },
+        {
+            "label": "keyword:百万遍",
+            "value": 1
+        },
+        {
+            "label": "keyword:亀屋岩吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:切断",
+            "value": 1
+        }
+    ],
+    "keyword:文久永宝": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:日光社参": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:牧金之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:天保の改革",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:日坂宿": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:夜泣き石",
+            "value": 2
+        }
+    ],
+    "keyword:日本橋": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 6
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 6
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 6
+        },
+        {
+            "label": "keyword:大判",
+            "value": 5
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 3
+        },
+        {
+            "label": "keyword:高札",
+            "value": 1
+        },
+        {
+            "label": "keyword:軍事",
+            "value": 1
+        }
+    ],
+    "keyword:日蓮": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:昔話": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        }
+    ],
+    "keyword:有田屋清右衛門": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "place:霞が関",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:本郷": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:海老屋林之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:村": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:東京大学史料編纂所": [
+        {
+            "label": "keyword:錦絵",
+            "value": 719
+        },
+        {
+            "label": "keyword:大判",
+            "value": 647
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 259
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 166
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 135
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 97
+        },
+        {
+            "label": "keyword:鯰絵",
+            "value": 67
+        },
+        {
+            "label": "keyword:歴史画",
+            "value": 44
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 36
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 27
+        },
+        {
+            "label": "keyword:安政の大地震",
+            "value": 27
+        },
+        {
+            "label": "place:築地",
+            "value": 23
+        },
+        {
+            "label": "keyword:大金",
+            "value": 22
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 12
+        },
+        {
+            "label": "keyword:生麦事件",
+            "value": 9
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 8
+        },
+        {
+            "label": "keyword:吉原",
+            "value": 7
+        },
+        {
+            "label": "keyword:日本橋",
+            "value": 6
+        },
+        {
+            "label": "keyword:横浜",
+            "value": 6
+        },
+        {
+            "label": "chname:徳川家茂",
+            "value": 5
+        },
+        {
+            "label": "chname:月岡芳年",
+            "value": 5
+        },
+        {
+            "label": "keyword:古賀屋勝五郎",
+            "value": 4
+        },
+        {
+            "label": "keyword:山本屋平吉",
+            "value": 4
+        },
+        {
+            "label": "keyword:海老屋林之助",
+            "value": 4
+        },
+        {
+            "label": "place:日本橋大伝馬町",
+            "value": 4
+        },
+        {
+            "label": "keyword:大津絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:清水屋直次郎",
+            "value": 3
+        },
+        {
+            "label": "chname:徳川慶喜",
+            "value": 3
+        },
+        {
+            "label": "place:日本橋人形町",
+            "value": 3
+        },
+        {
+            "label": "keyword:奪衣婆",
+            "value": 3
+        },
+        {
+            "label": "keyword:程ヶ谷宿",
+            "value": 3
+        },
+        {
+            "label": "place:大磯町",
+            "value": 3
+        },
+        {
+            "label": "keyword:三島",
+            "value": 3
+        },
+        {
+            "label": "keyword:日坂宿",
+            "value": 3
+        },
+        {
+            "label": "keyword:見付",
+            "value": 3
+        },
+        {
+            "label": "keyword:舞阪宿",
+            "value": 3
+        },
+        {
+            "label": "keyword:宮",
+            "value": 3
+        },
+        {
+            "label": "place:坂ノ下_(鎌倉市)",
+            "value": 3
+        },
+        {
+            "label": "keyword:単色光",
+            "value": 3
+        },
+        {
+            "label": "keyword:両国",
+            "value": 3
+        },
+        {
+            "label": "keyword:御座船",
+            "value": 3
+        },
+        {
+            "label": "keyword:丸屋甚八",
+            "value": 3
+        },
+        {
+            "label": "chname:徳川斉昭",
+            "value": 2
+        },
+        {
+            "label": "chname:井伊直弼",
+            "value": 2
+        },
+        {
+            "label": "keyword:占い",
+            "value": 2
+        },
+        {
+            "label": "keyword:お化け",
+            "value": 2
+        },
+        {
+            "label": "keyword:小島屋重兵衛",
+            "value": 2
+        },
+        {
+            "label": "keyword:相撲",
+            "value": 2
+        },
+        {
+            "label": "keyword:石臼",
+            "value": 2
+        },
+        {
+            "label": "keyword:翔鶴丸",
+            "value": 2
+        },
+        {
+            "label": "keyword:風俗",
+            "value": 2
+        },
+        {
+            "label": "keyword:鞠子宿",
+            "value": 2
+        },
+        {
+            "label": "keyword:夜泣き石",
+            "value": 2
+        },
+        {
+            "label": "place:知立市",
+            "value": 2
+        },
+        {
+            "label": "keyword:鳴海",
+            "value": 2
+        },
+        {
+            "label": "keyword:常夜灯",
+            "value": 2
+        },
+        {
+            "label": "keyword:大津",
+            "value": 2
+        },
+        {
+            "label": "keyword:雷神",
+            "value": 2
+        },
+        {
+            "label": "keyword:伊藤",
+            "value": 2
+        },
+        {
+            "label": "keyword:昔話",
+            "value": 2
+        },
+        {
+            "label": "keyword:番付",
+            "value": 2
+        },
+        {
+            "label": "keyword:佐野屋富五郎",
+            "value": 2
+        },
+        {
+            "label": "place:門前仲町",
+            "value": 2
+        },
+        {
+            "label": "keyword:お守り",
+            "value": 2
+        },
+        {
+            "label": "keyword:河川舟運",
+            "value": 2
+        },
+        {
+            "label": "keyword:駿府",
+            "value": 2
+        },
+        {
+            "label": "keyword:輿",
+            "value": 2
+        },
+        {
+            "label": "keyword:とろろ",
+            "value": 2
+        },
+        {
+            "label": "keyword:三条大橋",
+            "value": 2
+        },
+        {
+            "label": "keyword:紫宸殿",
+            "value": 2
+        },
+        {
+            "label": "place:上野",
+            "value": 2
+        },
+        {
+            "label": "place:霞が関",
+            "value": 2
+        },
+        {
+            "label": "place:高輪",
+            "value": 2
+        },
+        {
+            "label": "keyword:軍事",
+            "value": 2
+        },
+        {
+            "label": "event:上野戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:天保の改革",
+            "value": 2
+        },
+        {
+            "label": "keyword:児玉又七",
+            "value": 2
+        },
+        {
+            "label": "event:北越戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:蔦屋吉蔵",
+            "value": 1
+        },
+        {
+            "label": "keyword:大蛇",
+            "value": 1
+        },
+        {
+            "label": "keyword:葛籠",
+            "value": 1
+        },
+        {
+            "label": "chname:歌川国芳",
+            "value": 1
+        },
+        {
+            "label": "keyword:文久永宝",
+            "value": 1
+        },
+        {
+            "label": "keyword:タコ",
+            "value": 1
+        },
+        {
+            "label": "keyword:松木平吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:蒸気船",
+            "value": 1
+        },
+        {
+            "label": "keyword:年中行事",
+            "value": 1
+        },
+        {
+            "label": "keyword:虫売り",
+            "value": 1
+        },
+        {
+            "label": "keyword:妖狐",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋_(東京都中央区)",
+            "value": 1
+        },
+        {
+            "label": "keyword:隅田了古",
+            "value": 1
+        },
+        {
+            "label": "keyword:富士山",
+            "value": 1
+        },
+        {
+            "label": "keyword:風呂",
+            "value": 1
+        },
+        {
+            "label": "keyword:髪結い",
+            "value": 1
+        },
+        {
+            "label": "keyword:呉服商",
+            "value": 1
+        },
+        {
+            "label": "keyword:寄席",
+            "value": 1
+        },
+        {
+            "label": "keyword:座頭",
+            "value": 1
+        },
+        {
+            "label": "keyword:世直し一揆",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹馬",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹斎",
+            "value": 1
+        },
+        {
+            "label": "keyword:花火",
+            "value": 1
+        },
+        {
+            "label": "keyword:剣道",
+            "value": 1
+        },
+        {
+            "label": "keyword:花札",
+            "value": 1
+        },
+        {
+            "label": "keyword:歌川国貞_(3代目)",
+            "value": 1
+        },
+        {
+            "label": "chname:源為朝",
+            "value": 1
+        },
+        {
+            "label": "keyword:日蓮",
+            "value": 1
+        },
+        {
+            "label": "event:元寇",
+            "value": 1
+        },
+        {
+            "label": "keyword:西遊記",
+            "value": 1
+        },
+        {
+            "label": "keyword:孫悟空",
+            "value": 1
+        },
+        {
+            "label": "keyword:村",
+            "value": 1
+        },
+        {
+            "label": "keyword:老松",
+            "value": 1
+        },
+        {
+            "label": "place:成田山大阪別院明王院",
+            "value": 1
+        },
+        {
+            "label": "keyword:猫の妙術",
+            "value": 1
+        },
+        {
+            "label": "keyword:上村与兵衛",
+            "value": 1
+        },
+        {
+            "label": "keyword:辻岡文助",
+            "value": 1
+        },
+        {
+            "label": "chname:太田道灌",
+            "value": 1
+        },
+        {
+            "label": "place:立山",
+            "value": 1
+        },
+        {
+            "label": "keyword:天野屋利兵衛",
+            "value": 1
+        },
+        {
+            "label": "keyword:府中",
+            "value": 1
+        },
+        {
+            "label": "keyword:吉田大橋",
+            "value": 1
+        },
+        {
+            "label": "chname:仮名垣魯文",
+            "value": 1
+        },
+        {
+            "label": "keyword:百万遍",
+            "value": 1
+        },
+        {
+            "label": "chname:朝比奈義秀",
+            "value": 1
+        },
+        {
+            "label": "keyword:両国広小路",
+            "value": 1
+        },
+        {
+            "label": "keyword:亀屋岩吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:切断",
+            "value": 1
+        },
+        {
+            "label": "keyword:外国人",
+            "value": 1
+        },
+        {
+            "label": "keyword:講談",
+            "value": 1
+        },
+        {
+            "label": "keyword:神農",
+            "value": 1
+        },
+        {
+            "label": "keyword:鍾馗",
+            "value": 1
+        },
+        {
+            "label": "keyword:澤村田之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:役者絵",
+            "value": 1
+        },
+        {
+            "label": "place:四谷",
+            "value": 1
+        },
+        {
+            "label": "keyword:玩具絵",
+            "value": 1
+        },
+        {
+            "label": "chname:有村次左衛門",
+            "value": 1
+        },
+        {
+            "label": "place:平間寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:鶴見",
+            "value": 1
+        },
+        {
+            "label": "keyword:さくら屋",
+            "value": 1
+        },
+        {
+            "label": "place:由比ヶ浜",
+            "value": 1
+        },
+        {
+            "label": "keyword:ツル",
+            "value": 1
+        },
+        {
+            "label": "keyword:大山道",
+            "value": 1
+        },
+        {
+            "label": "keyword:虎御前",
+            "value": 1
+        },
+        {
+            "label": "keyword:ういろう",
+            "value": 1
+        },
+        {
+            "label": "keyword:箱根関",
+            "value": 1
+        },
+        {
+            "label": "keyword:富士川",
+            "value": 1
+        },
+        {
+            "label": "place:鳳来寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川",
+            "value": 1
+        },
+        {
+            "label": "keyword:菊川",
+            "value": 1
+        },
+        {
+            "label": "keyword:柏餅",
+            "value": 1
+        },
+        {
+            "label": "keyword:一橋斎艶長",
+            "value": 1
+        },
+        {
+            "label": "keyword:佐屋",
+            "value": 1
+        },
+        {
+            "label": "keyword:牛頭天王",
+            "value": 1
+        },
+        {
+            "label": "keyword:焚き火",
+            "value": 1
+        },
+        {
+            "label": "keyword:筆捨山",
+            "value": 1
+        },
+        {
+            "label": "chname:ヤマトタケル",
+            "value": 1
+        },
+        {
+            "label": "keyword:膳所",
+            "value": 1
+        },
+        {
+            "label": "keyword:瀬田の唐橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:宇治",
+            "value": 1
+        },
+        {
+            "label": "keyword:茶園",
+            "value": 1
+        },
+        {
+            "label": "keyword:建物",
+            "value": 1
+        },
+        {
+            "label": "place:京都御所",
+            "value": 1
+        },
+        {
+            "label": "keyword:能",
+            "value": 1
+        },
+        {
+            "label": "chname:源頼朝",
+            "value": 1
+        },
+        {
+            "label": "keyword:園原屋正助",
+            "value": 1
+        },
+        {
+            "label": "keyword:近江",
+            "value": 1
+        },
+        {
+            "label": "keyword:栗橋",
+            "value": 1
+        },
+        {
+            "label": "chname:和宮親子内親王",
+            "value": 1
+        },
+        {
+            "label": "keyword:江戸城",
+            "value": 1
+        },
+        {
+            "label": "keyword:下関",
+            "value": 1
+        },
+        {
+            "label": "event:下関戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:東叡大王",
+            "value": 1
+        },
+        {
+            "label": "keyword:延寿",
+            "value": 1
+        },
+        {
+            "label": "keyword:高札",
+            "value": 1
+        },
+        {
+            "label": "keyword:有田屋清右衛門",
+            "value": 1
+        },
+        {
+            "label": "keyword:西村屋与八",
+            "value": 1
+        },
+        {
+            "label": "keyword:国旗",
+            "value": 1
+        },
+        {
+            "label": "keyword:土橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:駒場",
+            "value": 1
+        },
+        {
+            "label": "chname:松平容保",
+            "value": 1
+        },
+        {
+            "label": "event:禁門の変",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川常次郎",
+            "value": 1
+        },
+        {
+            "label": "keyword:勝沼",
+            "value": 1
+        },
+        {
+            "label": "chname:近藤勇",
+            "value": 1
+        },
+        {
+            "label": "place:伊勢神宮",
+            "value": 1
+        },
+        {
+            "label": "keyword:本郷",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸正",
+            "value": 1
+        },
+        {
+            "label": "place:増上寺",
+            "value": 1
+        },
+        {
+            "label": "chname:江藤新平",
+            "value": 1
+        },
+        {
+            "label": "keyword:江川太郎左衛門",
+            "value": 1
+        },
+        {
+            "label": "event:天狗党の乱",
+            "value": 1
+        },
+        {
+            "label": "chname:西郷隆盛",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組の変",
+            "value": 1
+        },
+        {
+            "label": "keyword:牧金之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:日光社参",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川園吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:東洲勝月",
+            "value": 1
+        },
+        {
+            "label": "keyword:愛宕山",
+            "value": 1
+        },
+        {
+            "label": "keyword:二条城",
+            "value": 1
+        },
+        {
+            "label": "keyword:綱島亀吉",
+            "value": 1
+        },
+        {
+            "label": "chname:佐久間象山",
+            "value": 1
+        },
+        {
+            "label": "event:箱館戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:小判",
+            "value": 1
+        },
+        {
+            "label": "keyword:塩田",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川もち",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸子",
+            "value": 1
+        },
+        {
+            "label": "keyword:飛脚",
+            "value": 1
+        },
+        {
+            "label": "keyword:いかだ",
+            "value": 1
+        },
+        {
+            "label": "keyword:蜃気楼",
+            "value": 1
+        },
+        {
+            "label": "keyword:御所",
+            "value": 1
+        },
+        {
+            "label": "chname:島津忠義",
+            "value": 1
+        },
+        {
+            "label": "chname:徳川慶勝",
+            "value": 1
+        },
+        {
+            "label": "keyword:渋江内膳",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組",
+            "value": 1
+        },
+        {
+            "label": "keyword:堺事件",
+            "value": 1
+        }
+    ],
+    "keyword:東叡大王": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "place:上野",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        }
+    ],
+    "keyword:東洲勝月": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:児玉又七",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:松木平吉": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        }
+    ],
+    "keyword:柏餅": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:栗橋": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:横浜": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 6
+        },
+        {
+            "label": "keyword:大判",
+            "value": 6
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 6
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 6
+        },
+        {
+            "label": "keyword:西村屋与八",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸屋甚八",
+            "value": 1
+        },
+        {
+            "label": "keyword:国旗",
+            "value": 1
+        }
+    ],
+    "keyword:歌川国貞_(3代目)": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 1
+        }
+    ],
+    "keyword:歴史画": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 44
+        },
+        {
+            "label": "keyword:大判",
+            "value": 44
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 44
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 44
+        },
+        {
+            "label": "keyword:天野屋利兵衛",
+            "value": 1
+        }
+    ],
+    "keyword:江川太郎左衛門": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "keyword:江戸城": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "chname:和宮親子内親王",
+            "value": 1
+        }
+    ],
+    "keyword:河川舟運": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        }
+    ],
+    "keyword:海老屋林之助": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 4
+        },
+        {
+            "label": "keyword:大判",
+            "value": 4
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 4
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 4
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "event:上野戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:本郷",
+            "value": 1
+        }
+    ],
+    "keyword:清水屋直次郎": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        },
+        {
+            "label": "keyword:澤村田之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:役者絵",
+            "value": 1
+        }
+    ],
+    "keyword:渋江内膳": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 1
+        }
+    ],
+    "keyword:澤村田之助": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:清水屋直次郎",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:役者絵",
+            "value": 1
+        }
+    ],
+    "keyword:瀬田の唐橋": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:焚き火": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:牛頭天王": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:佐屋",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:牧金之助": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:天保の改革",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "keyword:日光社参",
+            "value": 1
+        }
+    ],
+    "keyword:猫の妙術": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:玩具絵": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        }
+    ],
+    "keyword:生麦事件": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 9
+        },
+        {
+            "label": "keyword:大判",
+            "value": 9
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 9
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 9
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 9
+        }
+    ],
+    "keyword:番付": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:単色光",
+            "value": 1
+        }
+    ],
+    "keyword:百万遍": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大金",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:相撲": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 2
+        }
+    ],
+    "keyword:石臼": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 2
+        }
+    ],
+    "keyword:神農": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:程ヶ谷宿": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        }
+    ],
+    "keyword:竹斎": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:竹馬": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 1
+        }
+    ],
+    "keyword:筆捨山": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "place:坂ノ下_(鎌倉市)",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:箱根関": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:紫宸殿": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "chname:徳川家茂",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:綱島亀吉": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:翔鶴丸": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        }
+    ],
+    "keyword:老松": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:肖像": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 97
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 97
+        },
+        {
+            "label": "keyword:大判",
+            "value": 87
+        },
+        {
+            "label": "keyword:歴史画",
+            "value": 44
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 12
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 8
+        },
+        {
+            "label": "chname:月岡芳年",
+            "value": 5
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 3
+        },
+        {
+            "label": "event:北越戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:上村与兵衛",
+            "value": 1
+        },
+        {
+            "label": "keyword:天野屋利兵衛",
+            "value": 1
+        },
+        {
+            "label": "chname:有村次左衛門",
+            "value": 1
+        },
+        {
+            "label": "chname:徳川家茂",
+            "value": 1
+        },
+        {
+            "label": "chname:江藤新平",
+            "value": 1
+        },
+        {
+            "label": "keyword:江川太郎左衛門",
+            "value": 1
+        },
+        {
+            "label": "event:天狗党の乱",
+            "value": 1
+        },
+        {
+            "label": "chname:西郷隆盛",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組の変",
+            "value": 1
+        },
+        {
+            "label": "chname:島津忠義",
+            "value": 1
+        },
+        {
+            "label": "chname:徳川慶勝",
+            "value": 1
+        },
+        {
+            "label": "keyword:渋江内膳",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組",
+            "value": 1
+        },
+        {
+            "label": "keyword:堺事件",
+            "value": 1
+        }
+    ],
+    "keyword:能": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:膳所": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:舞阪宿": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:御座船",
+            "value": 2
+        }
+    ],
+    "keyword:花札": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:花火": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 1
+        }
+    ],
+    "keyword:茶園": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:宇治",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:菊川": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大金",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:葛籠": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:蒸気船": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大金",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:蔦屋吉蔵": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        },
+        {
+            "label": "keyword:大蛇",
+            "value": 1
+        }
+    ],
+    "keyword:虎御前": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "place:大磯町",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:虫売り": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:蜃気楼": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:西村屋与八": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:横浜",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:西遊記": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:孫悟空",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:見付": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        }
+    ],
+    "keyword:講談": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:軍事": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:日本橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 1
+        },
+        {
+            "label": "keyword:土橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:駒場",
+            "value": 1
+        }
+    ],
+    "keyword:輿": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川",
+            "value": 1
+        }
+    ],
+    "keyword:辻岡文助": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:奪衣婆",
+            "value": 1
+        }
+    ],
+    "keyword:近江": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:園原屋正助",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:錦絵": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 719
+        },
+        {
+            "label": "keyword:大判",
+            "value": 644
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 259
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 166
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 135
+        },
+        {
+            "label": "keyword:肖像",
+            "value": 97
+        },
+        {
+            "label": "keyword:鯰絵",
+            "value": 67
+        },
+        {
+            "label": "keyword:歴史画",
+            "value": 44
+        },
+        {
+            "label": "keyword:子供絵",
+            "value": 36
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 27
+        },
+        {
+            "label": "keyword:安政の大地震",
+            "value": 26
+        },
+        {
+            "label": "place:築地",
+            "value": 23
+        },
+        {
+            "label": "keyword:大金",
+            "value": 22
+        },
+        {
+            "label": "keyword:やまと新聞社",
+            "value": 12
+        },
+        {
+            "label": "keyword:生麦事件",
+            "value": 9
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 8
+        },
+        {
+            "label": "keyword:吉原",
+            "value": 7
+        },
+        {
+            "label": "keyword:日本橋",
+            "value": 6
+        },
+        {
+            "label": "keyword:横浜",
+            "value": 6
+        },
+        {
+            "label": "chname:徳川家茂",
+            "value": 5
+        },
+        {
+            "label": "chname:月岡芳年",
+            "value": 5
+        },
+        {
+            "label": "keyword:古賀屋勝五郎",
+            "value": 4
+        },
+        {
+            "label": "keyword:山本屋平吉",
+            "value": 4
+        },
+        {
+            "label": "keyword:海老屋林之助",
+            "value": 4
+        },
+        {
+            "label": "place:日本橋大伝馬町",
+            "value": 4
+        },
+        {
+            "label": "keyword:大津絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:清水屋直次郎",
+            "value": 3
+        },
+        {
+            "label": "chname:徳川慶喜",
+            "value": 3
+        },
+        {
+            "label": "place:日本橋人形町",
+            "value": 3
+        },
+        {
+            "label": "keyword:奪衣婆",
+            "value": 3
+        },
+        {
+            "label": "keyword:程ヶ谷宿",
+            "value": 3
+        },
+        {
+            "label": "place:大磯町",
+            "value": 3
+        },
+        {
+            "label": "keyword:三島",
+            "value": 3
+        },
+        {
+            "label": "keyword:日坂宿",
+            "value": 3
+        },
+        {
+            "label": "keyword:見付",
+            "value": 3
+        },
+        {
+            "label": "keyword:舞阪宿",
+            "value": 3
+        },
+        {
+            "label": "keyword:宮",
+            "value": 3
+        },
+        {
+            "label": "place:坂ノ下_(鎌倉市)",
+            "value": 3
+        },
+        {
+            "label": "keyword:両国",
+            "value": 3
+        },
+        {
+            "label": "keyword:御座船",
+            "value": 3
+        },
+        {
+            "label": "keyword:丸屋甚八",
+            "value": 3
+        },
+        {
+            "label": "chname:徳川斉昭",
+            "value": 2
+        },
+        {
+            "label": "chname:井伊直弼",
+            "value": 2
+        },
+        {
+            "label": "keyword:占い",
+            "value": 2
+        },
+        {
+            "label": "keyword:お化け",
+            "value": 2
+        },
+        {
+            "label": "keyword:小島屋重兵衛",
+            "value": 2
+        },
+        {
+            "label": "keyword:相撲",
+            "value": 2
+        },
+        {
+            "label": "keyword:石臼",
+            "value": 2
+        },
+        {
+            "label": "keyword:翔鶴丸",
+            "value": 2
+        },
+        {
+            "label": "keyword:風俗",
+            "value": 2
+        },
+        {
+            "label": "keyword:鞠子宿",
+            "value": 2
+        },
+        {
+            "label": "keyword:夜泣き石",
+            "value": 2
+        },
+        {
+            "label": "place:知立市",
+            "value": 2
+        },
+        {
+            "label": "keyword:鳴海",
+            "value": 2
+        },
+        {
+            "label": "keyword:常夜灯",
+            "value": 2
+        },
+        {
+            "label": "keyword:大津",
+            "value": 2
+        },
+        {
+            "label": "keyword:伊藤",
+            "value": 2
+        },
+        {
+            "label": "keyword:昔話",
+            "value": 2
+        },
+        {
+            "label": "keyword:佐野屋富五郎",
+            "value": 2
+        },
+        {
+            "label": "place:門前仲町",
+            "value": 2
+        },
+        {
+            "label": "keyword:河川舟運",
+            "value": 2
+        },
+        {
+            "label": "keyword:駿府",
+            "value": 2
+        },
+        {
+            "label": "keyword:輿",
+            "value": 2
+        },
+        {
+            "label": "keyword:とろろ",
+            "value": 2
+        },
+        {
+            "label": "keyword:三条大橋",
+            "value": 2
+        },
+        {
+            "label": "keyword:紫宸殿",
+            "value": 2
+        },
+        {
+            "label": "place:上野",
+            "value": 2
+        },
+        {
+            "label": "place:霞が関",
+            "value": 2
+        },
+        {
+            "label": "place:高輪",
+            "value": 2
+        },
+        {
+            "label": "keyword:軍事",
+            "value": 2
+        },
+        {
+            "label": "event:上野戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:天保の改革",
+            "value": 2
+        },
+        {
+            "label": "keyword:児玉又七",
+            "value": 2
+        },
+        {
+            "label": "event:北越戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:蔦屋吉蔵",
+            "value": 1
+        },
+        {
+            "label": "keyword:大蛇",
+            "value": 1
+        },
+        {
+            "label": "keyword:葛籠",
+            "value": 1
+        },
+        {
+            "label": "chname:歌川国芳",
+            "value": 1
+        },
+        {
+            "label": "keyword:文久永宝",
+            "value": 1
+        },
+        {
+            "label": "keyword:タコ",
+            "value": 1
+        },
+        {
+            "label": "keyword:松木平吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:蒸気船",
+            "value": 1
+        },
+        {
+            "label": "keyword:年中行事",
+            "value": 1
+        },
+        {
+            "label": "keyword:虫売り",
+            "value": 1
+        },
+        {
+            "label": "keyword:妖狐",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋_(東京都中央区)",
+            "value": 1
+        },
+        {
+            "label": "keyword:隅田了古",
+            "value": 1
+        },
+        {
+            "label": "keyword:富士山",
+            "value": 1
+        },
+        {
+            "label": "keyword:風呂",
+            "value": 1
+        },
+        {
+            "label": "keyword:髪結い",
+            "value": 1
+        },
+        {
+            "label": "keyword:呉服商",
+            "value": 1
+        },
+        {
+            "label": "keyword:寄席",
+            "value": 1
+        },
+        {
+            "label": "keyword:座頭",
+            "value": 1
+        },
+        {
+            "label": "keyword:世直し一揆",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹馬",
+            "value": 1
+        },
+        {
+            "label": "keyword:竹斎",
+            "value": 1
+        },
+        {
+            "label": "keyword:花火",
+            "value": 1
+        },
+        {
+            "label": "keyword:剣道",
+            "value": 1
+        },
+        {
+            "label": "keyword:花札",
+            "value": 1
+        },
+        {
+            "label": "keyword:歌川国貞_(3代目)",
+            "value": 1
+        },
+        {
+            "label": "chname:源為朝",
+            "value": 1
+        },
+        {
+            "label": "keyword:日蓮",
+            "value": 1
+        },
+        {
+            "label": "event:元寇",
+            "value": 1
+        },
+        {
+            "label": "keyword:西遊記",
+            "value": 1
+        },
+        {
+            "label": "keyword:孫悟空",
+            "value": 1
+        },
+        {
+            "label": "keyword:村",
+            "value": 1
+        },
+        {
+            "label": "keyword:老松",
+            "value": 1
+        },
+        {
+            "label": "place:成田山大阪別院明王院",
+            "value": 1
+        },
+        {
+            "label": "keyword:猫の妙術",
+            "value": 1
+        },
+        {
+            "label": "keyword:上村与兵衛",
+            "value": 1
+        },
+        {
+            "label": "keyword:辻岡文助",
+            "value": 1
+        },
+        {
+            "label": "chname:太田道灌",
+            "value": 1
+        },
+        {
+            "label": "place:立山",
+            "value": 1
+        },
+        {
+            "label": "keyword:天野屋利兵衛",
+            "value": 1
+        },
+        {
+            "label": "keyword:府中",
+            "value": 1
+        },
+        {
+            "label": "keyword:吉田大橋",
+            "value": 1
+        },
+        {
+            "label": "chname:仮名垣魯文",
+            "value": 1
+        },
+        {
+            "label": "keyword:百万遍",
+            "value": 1
+        },
+        {
+            "label": "chname:朝比奈義秀",
+            "value": 1
+        },
+        {
+            "label": "keyword:両国広小路",
+            "value": 1
+        },
+        {
+            "label": "keyword:亀屋岩吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:切断",
+            "value": 1
+        },
+        {
+            "label": "keyword:番付",
+            "value": 1
+        },
+        {
+            "label": "keyword:講談",
+            "value": 1
+        },
+        {
+            "label": "keyword:神農",
+            "value": 1
+        },
+        {
+            "label": "keyword:鍾馗",
+            "value": 1
+        },
+        {
+            "label": "keyword:お守り",
+            "value": 1
+        },
+        {
+            "label": "keyword:澤村田之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:役者絵",
+            "value": 1
+        },
+        {
+            "label": "place:四谷",
+            "value": 1
+        },
+        {
+            "label": "chname:有村次左衛門",
+            "value": 1
+        },
+        {
+            "label": "place:平間寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:鶴見",
+            "value": 1
+        },
+        {
+            "label": "keyword:さくら屋",
+            "value": 1
+        },
+        {
+            "label": "place:由比ヶ浜",
+            "value": 1
+        },
+        {
+            "label": "keyword:ツル",
+            "value": 1
+        },
+        {
+            "label": "keyword:大山道",
+            "value": 1
+        },
+        {
+            "label": "keyword:虎御前",
+            "value": 1
+        },
+        {
+            "label": "keyword:ういろう",
+            "value": 1
+        },
+        {
+            "label": "keyword:箱根関",
+            "value": 1
+        },
+        {
+            "label": "keyword:富士川",
+            "value": 1
+        },
+        {
+            "label": "place:鳳来寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川",
+            "value": 1
+        },
+        {
+            "label": "keyword:菊川",
+            "value": 1
+        },
+        {
+            "label": "keyword:柏餅",
+            "value": 1
+        },
+        {
+            "label": "keyword:一橋斎艶長",
+            "value": 1
+        },
+        {
+            "label": "keyword:佐屋",
+            "value": 1
+        },
+        {
+            "label": "keyword:牛頭天王",
+            "value": 1
+        },
+        {
+            "label": "keyword:焚き火",
+            "value": 1
+        },
+        {
+            "label": "keyword:筆捨山",
+            "value": 1
+        },
+        {
+            "label": "chname:ヤマトタケル",
+            "value": 1
+        },
+        {
+            "label": "keyword:膳所",
+            "value": 1
+        },
+        {
+            "label": "keyword:瀬田の唐橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:宇治",
+            "value": 1
+        },
+        {
+            "label": "keyword:茶園",
+            "value": 1
+        },
+        {
+            "label": "keyword:建物",
+            "value": 1
+        },
+        {
+            "label": "place:京都御所",
+            "value": 1
+        },
+        {
+            "label": "keyword:能",
+            "value": 1
+        },
+        {
+            "label": "chname:源頼朝",
+            "value": 1
+        },
+        {
+            "label": "keyword:園原屋正助",
+            "value": 1
+        },
+        {
+            "label": "keyword:近江",
+            "value": 1
+        },
+        {
+            "label": "keyword:栗橋",
+            "value": 1
+        },
+        {
+            "label": "chname:和宮親子内親王",
+            "value": 1
+        },
+        {
+            "label": "keyword:江戸城",
+            "value": 1
+        },
+        {
+            "label": "keyword:下関",
+            "value": 1
+        },
+        {
+            "label": "event:下関戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:東叡大王",
+            "value": 1
+        },
+        {
+            "label": "keyword:雷神",
+            "value": 1
+        },
+        {
+            "label": "keyword:延寿",
+            "value": 1
+        },
+        {
+            "label": "keyword:高札",
+            "value": 1
+        },
+        {
+            "label": "keyword:有田屋清右衛門",
+            "value": 1
+        },
+        {
+            "label": "keyword:西村屋与八",
+            "value": 1
+        },
+        {
+            "label": "keyword:国旗",
+            "value": 1
+        },
+        {
+            "label": "keyword:土橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:駒場",
+            "value": 1
+        },
+        {
+            "label": "chname:松平容保",
+            "value": 1
+        },
+        {
+            "label": "event:禁門の変",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川常次郎",
+            "value": 1
+        },
+        {
+            "label": "keyword:勝沼",
+            "value": 1
+        },
+        {
+            "label": "chname:近藤勇",
+            "value": 1
+        },
+        {
+            "label": "place:伊勢神宮",
+            "value": 1
+        },
+        {
+            "label": "keyword:本郷",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸正",
+            "value": 1
+        },
+        {
+            "label": "place:増上寺",
+            "value": 1
+        },
+        {
+            "label": "chname:江藤新平",
+            "value": 1
+        },
+        {
+            "label": "keyword:江川太郎左衛門",
+            "value": 1
+        },
+        {
+            "label": "event:天狗党の乱",
+            "value": 1
+        },
+        {
+            "label": "chname:西郷隆盛",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組の変",
+            "value": 1
+        },
+        {
+            "label": "keyword:牧金之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:日光社参",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川園吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:東洲勝月",
+            "value": 1
+        },
+        {
+            "label": "keyword:愛宕山",
+            "value": 1
+        },
+        {
+            "label": "keyword:二条城",
+            "value": 1
+        },
+        {
+            "label": "keyword:綱島亀吉",
+            "value": 1
+        },
+        {
+            "label": "chname:佐久間象山",
+            "value": 1
+        },
+        {
+            "label": "event:箱館戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:小判",
+            "value": 1
+        },
+        {
+            "label": "keyword:塩田",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川もち",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸子",
+            "value": 1
+        },
+        {
+            "label": "keyword:飛脚",
+            "value": 1
+        },
+        {
+            "label": "keyword:いかだ",
+            "value": 1
+        },
+        {
+            "label": "keyword:蜃気楼",
+            "value": 1
+        },
+        {
+            "label": "keyword:御所",
+            "value": 1
+        },
+        {
+            "label": "chname:島津忠義",
+            "value": 1
+        },
+        {
+            "label": "chname:徳川慶勝",
+            "value": 1
+        },
+        {
+            "label": "keyword:渋江内膳",
+            "value": 1
+        },
+        {
+            "label": "keyword:天誅組",
+            "value": 1
+        },
+        {
+            "label": "keyword:堺事件",
+            "value": 1
+        }
+    ],
+    "keyword:鍾馗": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "place:門前仲町",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:長谷川園吉": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:天保の改革",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:長谷川常次郎": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:隅田了古": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋_(東京都中央区)",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:雷神": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "keyword:鞠子宿": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:とろろ",
+            "value": 1
+        }
+    ],
+    "keyword:風俗": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:三島",
+            "value": 1
+        }
+    ],
+    "keyword:風呂": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:風景画": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 259
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 259
+        },
+        {
+            "label": "keyword:大判",
+            "value": 204
+        },
+        {
+            "label": "keyword:大金",
+            "value": 12
+        },
+        {
+            "label": "place:築地",
+            "value": 12
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 8
+        },
+        {
+            "label": "keyword:吉原",
+            "value": 7
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 7
+        },
+        {
+            "label": "keyword:日本橋",
+            "value": 6
+        },
+        {
+            "label": "keyword:横浜",
+            "value": 6
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 5
+        },
+        {
+            "label": "keyword:海老屋林之助",
+            "value": 4
+        },
+        {
+            "label": "place:日本橋大伝馬町",
+            "value": 4
+        },
+        {
+            "label": "keyword:程ヶ谷宿",
+            "value": 3
+        },
+        {
+            "label": "place:大磯町",
+            "value": 3
+        },
+        {
+            "label": "keyword:日坂宿",
+            "value": 3
+        },
+        {
+            "label": "keyword:見付",
+            "value": 3
+        },
+        {
+            "label": "keyword:舞阪宿",
+            "value": 3
+        },
+        {
+            "label": "keyword:宮",
+            "value": 3
+        },
+        {
+            "label": "place:坂ノ下_(鎌倉市)",
+            "value": 3
+        },
+        {
+            "label": "keyword:御座船",
+            "value": 3
+        },
+        {
+            "label": "keyword:丸屋甚八",
+            "value": 3
+        },
+        {
+            "label": "keyword:翔鶴丸",
+            "value": 2
+        },
+        {
+            "label": "keyword:三島",
+            "value": 2
+        },
+        {
+            "label": "keyword:鞠子宿",
+            "value": 2
+        },
+        {
+            "label": "keyword:夜泣き石",
+            "value": 2
+        },
+        {
+            "label": "place:知立市",
+            "value": 2
+        },
+        {
+            "label": "keyword:鳴海",
+            "value": 2
+        },
+        {
+            "label": "keyword:常夜灯",
+            "value": 2
+        },
+        {
+            "label": "keyword:大津",
+            "value": 2
+        },
+        {
+            "label": "keyword:河川舟運",
+            "value": 2
+        },
+        {
+            "label": "keyword:駿府",
+            "value": 2
+        },
+        {
+            "label": "keyword:輿",
+            "value": 2
+        },
+        {
+            "label": "keyword:とろろ",
+            "value": 2
+        },
+        {
+            "label": "chname:徳川家茂",
+            "value": 2
+        },
+        {
+            "label": "keyword:三条大橋",
+            "value": 2
+        },
+        {
+            "label": "place:霞が関",
+            "value": 2
+        },
+        {
+            "label": "place:高輪",
+            "value": 2
+        },
+        {
+            "label": "keyword:軍事",
+            "value": 2
+        },
+        {
+            "label": "event:上野戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:天保の改革",
+            "value": 2
+        },
+        {
+            "label": "keyword:児玉又七",
+            "value": 2
+        },
+        {
+            "label": "keyword:日蓮",
+            "value": 1
+        },
+        {
+            "label": "event:元寇",
+            "value": 1
+        },
+        {
+            "label": "keyword:村",
+            "value": 1
+        },
+        {
+            "label": "chname:太田道灌",
+            "value": 1
+        },
+        {
+            "label": "place:立山",
+            "value": 1
+        },
+        {
+            "label": "keyword:府中",
+            "value": 1
+        },
+        {
+            "label": "keyword:吉田大橋",
+            "value": 1
+        },
+        {
+            "label": "place:平間寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:鶴見",
+            "value": 1
+        },
+        {
+            "label": "keyword:さくら屋",
+            "value": 1
+        },
+        {
+            "label": "place:由比ヶ浜",
+            "value": 1
+        },
+        {
+            "label": "keyword:ツル",
+            "value": 1
+        },
+        {
+            "label": "keyword:大山道",
+            "value": 1
+        },
+        {
+            "label": "keyword:虎御前",
+            "value": 1
+        },
+        {
+            "label": "keyword:ういろう",
+            "value": 1
+        },
+        {
+            "label": "keyword:箱根関",
+            "value": 1
+        },
+        {
+            "label": "keyword:富士川",
+            "value": 1
+        },
+        {
+            "label": "place:鳳来寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川",
+            "value": 1
+        },
+        {
+            "label": "keyword:菊川",
+            "value": 1
+        },
+        {
+            "label": "keyword:柏餅",
+            "value": 1
+        },
+        {
+            "label": "keyword:一橋斎艶長",
+            "value": 1
+        },
+        {
+            "label": "keyword:佐屋",
+            "value": 1
+        },
+        {
+            "label": "keyword:牛頭天王",
+            "value": 1
+        },
+        {
+            "label": "keyword:焚き火",
+            "value": 1
+        },
+        {
+            "label": "keyword:筆捨山",
+            "value": 1
+        },
+        {
+            "label": "chname:ヤマトタケル",
+            "value": 1
+        },
+        {
+            "label": "keyword:膳所",
+            "value": 1
+        },
+        {
+            "label": "keyword:瀬田の唐橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:宇治",
+            "value": 1
+        },
+        {
+            "label": "keyword:茶園",
+            "value": 1
+        },
+        {
+            "label": "keyword:紫宸殿",
+            "value": 1
+        },
+        {
+            "label": "chname:源頼朝",
+            "value": 1
+        },
+        {
+            "label": "keyword:園原屋正助",
+            "value": 1
+        },
+        {
+            "label": "keyword:近江",
+            "value": 1
+        },
+        {
+            "label": "keyword:栗橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:高札",
+            "value": 1
+        },
+        {
+            "label": "keyword:有田屋清右衛門",
+            "value": 1
+        },
+        {
+            "label": "keyword:両国",
+            "value": 1
+        },
+        {
+            "label": "keyword:西村屋与八",
+            "value": 1
+        },
+        {
+            "label": "keyword:国旗",
+            "value": 1
+        },
+        {
+            "label": "keyword:土橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:駒場",
+            "value": 1
+        },
+        {
+            "label": "chname:松平容保",
+            "value": 1
+        },
+        {
+            "label": "event:禁門の変",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川常次郎",
+            "value": 1
+        },
+        {
+            "label": "keyword:古賀屋勝五郎",
+            "value": 1
+        },
+        {
+            "label": "place:日本橋人形町",
+            "value": 1
+        },
+        {
+            "label": "keyword:勝沼",
+            "value": 1
+        },
+        {
+            "label": "chname:近藤勇",
+            "value": 1
+        },
+        {
+            "label": "place:伊勢神宮",
+            "value": 1
+        },
+        {
+            "label": "keyword:本郷",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸正",
+            "value": 1
+        },
+        {
+            "label": "place:増上寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:牧金之助",
+            "value": 1
+        },
+        {
+            "label": "keyword:日光社参",
+            "value": 1
+        },
+        {
+            "label": "keyword:長谷川園吉",
+            "value": 1
+        },
+        {
+            "label": "keyword:東洲勝月",
+            "value": 1
+        },
+        {
+            "label": "keyword:愛宕山",
+            "value": 1
+        },
+        {
+            "label": "keyword:二条城",
+            "value": 1
+        },
+        {
+            "label": "keyword:綱島亀吉",
+            "value": 1
+        },
+        {
+            "label": "chname:佐久間象山",
+            "value": 1
+        },
+        {
+            "label": "event:箱館戦争",
+            "value": 1
+        },
+        {
+            "label": "chname:徳川慶喜",
+            "value": 1
+        },
+        {
+            "label": "keyword:塩田",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川もち",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸子",
+            "value": 1
+        },
+        {
+            "label": "keyword:飛脚",
+            "value": 1
+        },
+        {
+            "label": "keyword:いかだ",
+            "value": 1
+        },
+        {
+            "label": "keyword:蜃気楼",
+            "value": 1
+        },
+        {
+            "label": "keyword:大津絵",
+            "value": 1
+        }
+    ],
+    "keyword:飛脚": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:駒場": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:土橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:軍事",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:駿府": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:安倍川もち",
+            "value": 1
+        }
+    ],
+    "keyword:高札": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:日本橋",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "keyword:髪結い": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "keyword:鯰絵": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 67
+        },
+        {
+            "label": "keyword:大判",
+            "value": 67
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 67
+        },
+        {
+            "label": "keyword:安政の大地震",
+            "value": 18
+        },
+        {
+            "label": "keyword:延寿",
+            "value": 1
+        }
+    ],
+    "keyword:鳴海": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        }
+    ],
+    "keyword:鶴見": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大金",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "place:上野": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 2
+        },
+        {
+            "label": "keyword:東叡大王",
+            "value": 1
+        }
+    ],
+    "place:京都御所": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "chname:徳川家茂",
+            "value": 1
+        },
+        {
+            "label": "keyword:建物",
+            "value": 1
+        }
+    ],
+    "place:伊勢神宮": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "place:四谷": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "place:坂ノ下_(鎌倉市)": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:筆捨山",
+            "value": 1
+        }
+    ],
+    "place:増上寺": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:丸正",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "place:大磯町": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:虎御前",
+            "value": 1
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 1
+        }
+    ],
+    "place:平間寺": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大金",
+            "value": 1
+        },
+        {
+            "label": "place:築地",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "place:成田山大阪別院明王院": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        }
+    ],
+    "place:日本橋_(東京都中央区)": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:隅田了古",
+            "value": 1
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        }
+    ],
+    "place:日本橋人形町": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 3
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 3
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 1
+        },
+        {
+            "label": "event:戊辰戦争",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "event:上野戦争",
+            "value": 1
+        }
+    ],
+    "place:日本橋大伝馬町": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 4
+        },
+        {
+            "label": "keyword:大判",
+            "value": 4
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 4
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 4
+        },
+        {
+            "label": "chname:源頼朝",
+            "value": 1
+        },
+        {
+            "label": "place:高輪",
+            "value": 1
+        }
+    ],
+    "place:由比ヶ浜": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        },
+        {
+            "label": "keyword:ツル",
+            "value": 1
+        }
+    ],
+    "place:知立市": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:幕府陸軍",
+            "value": 1
+        }
+    ],
+    "place:立山": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ],
+    "place:築地": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 23
+        },
+        {
+            "label": "keyword:大判",
+            "value": 23
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 23
+        },
+        {
+            "label": "keyword:大金",
+            "value": 22
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 12
+        },
+        {
+            "label": "keyword:戯画",
+            "value": 4
+        },
+        {
+            "label": "keyword:蒸気船",
+            "value": 1
+        },
+        {
+            "label": "keyword:年中行事",
+            "value": 1
+        },
+        {
+            "label": "keyword:尊王攘夷",
+            "value": 1
+        },
+        {
+            "label": "event:元寇",
+            "value": 1
+        },
+        {
+            "label": "keyword:西遊記",
+            "value": 1
+        },
+        {
+            "label": "keyword:孫悟空",
+            "value": 1
+        },
+        {
+            "label": "keyword:百万遍",
+            "value": 1
+        },
+        {
+            "label": "place:平間寺",
+            "value": 1
+        },
+        {
+            "label": "keyword:鶴見",
+            "value": 1
+        },
+        {
+            "label": "keyword:菊川",
+            "value": 1
+        }
+    ],
+    "place:門前仲町": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:鍾馗",
+            "value": 1
+        }
+    ],
+    "place:霞が関": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "keyword:有田屋清右衛門",
+            "value": 1
+        },
+        {
+            "label": "keyword:両国",
+            "value": 1
+        }
+    ],
+    "place:高輪": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 2
+        },
+        {
+            "label": "keyword:大判",
+            "value": 2
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 2
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 2
+        },
+        {
+            "label": "place:日本橋大伝馬町",
+            "value": 1
+        }
+    ],
+    "place:鳳来寺": [
+        {
+            "label": "keyword:東京大学史料編纂所",
+            "value": 1
+        },
+        {
+            "label": "keyword:大判",
+            "value": 1
+        },
+        {
+            "label": "keyword:錦絵",
+            "value": 1
+        },
+        {
+            "label": "keyword:風景画",
+            "value": 1
+        }
+    ]
+}

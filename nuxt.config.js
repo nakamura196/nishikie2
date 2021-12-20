@@ -81,6 +81,15 @@ env.menu = [
     description: 'メタデータ別の集計結果を表示します。',
     top: true,
   },
+  {
+    label: 'map',
+    to: {
+      name: 'map',
+    },
+    icon: 'mdi-map',
+    description: '地図から探す',
+    top: true,
+  },
   /*
   {
     label: 'category',
@@ -273,6 +282,46 @@ env.searches = {
         more: false,
         open: true,
       },
+      agential: {
+        key: 'agential',
+        sort: '',
+        label: 'agential',
+        value: {},
+        more: false,
+        open: true,
+      },
+      place: {
+        key: 'place',
+        sort: '',
+        label: 'place',
+        value: {},
+        more: false,
+        open: true,
+      },
+      org: {
+        key: 'org',
+        sort: '',
+        label: 'org',
+        value: {},
+        more: false,
+        open: true,
+      },
+      keyword: {
+        key: 'keyword',
+        sort: '',
+        label: 'keyword',
+        value: {},
+        more: false,
+        open: true,
+      },
+      event: {
+        key: 'event',
+        sort: '',
+        label: 'event',
+        value: {},
+        more: false,
+        open: true,
+      },
       time: {
         key: 'time',
         sort: '',
@@ -323,6 +372,30 @@ env.searches = {
       { label: 'その他固有件名', value: 'その他固有件名', type: 'text' },
       { label: '彫師', value: '彫師', type: 'text' },
       { label: '地名', value: '地名', type: 'text' },
+      {
+        label: 'agential',
+        value: 'agential',
+      },
+      {
+        label: 'org',
+        value: 'org',
+      },
+      {
+        label: 'place',
+        value: 'place',
+      },
+      {
+        label: 'keyword',
+        value: 'keyword',
+      },
+      {
+        label: 'event',
+        value: 'event',
+      },
+      {
+        label: 'time',
+        value: 'time',
+      },
       {
         label: 'color',
         value: 'color',

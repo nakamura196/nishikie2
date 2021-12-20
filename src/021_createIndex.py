@@ -11,7 +11,7 @@ def getGeo(obj, map):
   geo = map[geohash]
   return "{} {}".format(geo["http://schema.org/latitude"][0]["@value"], geo["http://schema.org/longitude"][0]["@value"])
 
-path = "/Users/nakamurasatoru/git/d_omeka/omekac_kunshujo/src/rdf/data/all.json"
+path = "rdf/data/all.json"
 
 with open(path) as f:
     st = json.load(f)
@@ -95,6 +95,6 @@ for obj in st:
 
   index.append(item)
 
-with open("/Users/nakamurasatoru/git/d_kunshujo/kunshujo/static/data/entity.json", 'w') as outfile:
+with open("../static/data/entity.json", 'w') as outfile:
     json.dump(index, outfile, ensure_ascii=False,
                 indent=4, sort_keys=True, separators=(',', ': '))

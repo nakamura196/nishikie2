@@ -28,7 +28,7 @@ def getUris():
     return map
 
 
-uris = {} # getUris()
+uris = getUris()
 
 path = "/Users/nakamurasatoru/git/d_hi/nishikie/docs/curation/mod.json"
 
@@ -130,6 +130,7 @@ for selection in selections:
     places = []
     times = []
     keywords = []
+    events = []
     orgs = []
 
     color = []
@@ -148,11 +149,12 @@ for selection in selections:
         "manifest" : manifest,
         "member" : member_id,
         "_updated" : format(today, '%Y-%m-%d'),
-        # "agential" : agentials,
-        # "keyword" : keywords,
-        # "place" : places,
-        # "time" : times,
-        # "org" : orgs,
+        "agential" : agentials,
+        "keyword" : keywords,
+        "event" : events,
+        "place" : places,
+        "time" : times,
+        "org" : orgs,
         # "book" : book,
         # "color" : color
     }
@@ -163,14 +165,25 @@ for selection in selections:
         if type(values) is not list:
             values = [values]
         
-
-        if label == "タグ":
+        if label == "機械タグ":
+            pass
+            '''
             for value in values:
-              tags.append(value)
+                if value not in excludes and value not in mtags:
+                    mtags.append(value)
+            '''
+        elif label == "Color":
+            color = values
+        elif label == "帖数":
+            book = values
+        else:
+            item[label] = values
 
-              if value in uris:
-                  ids = uris[value]
-                  for uri in ids:
+        
+        for value in values:
+            if value in uris:
+                ids = uris[value]
+                for uri in ids:
                     # 正規化された値に変更
                     if uri in reps:
                         uri = reps[uri]
@@ -190,6 +203,8 @@ for selection in selections:
                         keywords.append(value3)
                     elif prefix == "place":
                         places.append(value3)
+                    elif prefix == "event":
+                        events.append(value3)
                     elif prefix == "time":
                         times.append(value3)
                     elif prefix == "org":
@@ -197,23 +212,6 @@ for selection in selections:
 
                     if uri not in entityIds and uri != "chname:田中芳男":
                         entityIds.append(uri)
-
-        
-        elif label == "機械タグ":
-            pass
-            '''
-            for value in values:
-                if value not in excludes and value not in mtags:
-                    mtags.append(value)
-            '''
-        elif label == "Color":
-            color = values
-        elif label == "帖数":
-            book = values
-        else:
-            item[label] = values
-
-    
     
     # book = label.split(" p.")[0]
 

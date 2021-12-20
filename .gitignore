@@ -95,3 +95,6 @@ src/gis/output
 *.tif
 
 serviceAccountKey.json
+
+dbpedia_ja
+wikipedia
