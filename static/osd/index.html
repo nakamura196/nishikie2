@@ -122,10 +122,13 @@
                     tileSources.push(img.service["@id"] + "/info.json")
                   }      
                   const viewer = OpenSeadragon({
+                    prefixUrl: "../images/",
                     showRotationControl: true,
                     id: "viewer-image",
                     tileSources, //: image.service["@id"] + "/info.json"//tile,
                     sequenceMode: true,
+
+                    showNavigator:  true,
                   })
 
                   if(xywh){
@@ -186,6 +189,7 @@
 
                   const viewer = OpenSeadragon({
                     showRotationControl: true,
+                    prefixUrl: "../images/",
                     id: "viewer-image",
                     tileSources/*: {
                         type: 'image',
@@ -193,6 +197,7 @@
                         overlays: overlays,
                     }*/,
                     sequenceMode: true,
+                    showNavigator:  true,
                     //showReferenceStrip: true,
                     //referenceStripScroll: 'vertical',
                   })
